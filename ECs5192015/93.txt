@@ -1,0 +1,649 @@
+
+												The legitimacy and usefulness of academic blogging will shape how intellectualism develops
+						
+				
+<!--
+wpa2a.script_load();
+//-->
+Academic blogging has become an increasingly popular form, but key questions still remain over whether blog posts should feature more prominently in formal academic discourse. Jenny Davis clarifies the pros and cons of blog citation and sees the remaining ambiguity as indicative of a changing professional landscape. The wider scholarly community must learn how to grapple with these ethical and professional questions of rigor in standards of academic sourcing.
+In this post I attempt to tackle a complex but increasingly important question: Should writers cite blog posts in formal academic writing (i.e. journal articles and books)? To begin with full disclosure: I cite blog posts in my own formal academic writing. But not just any blog posts. I am highly discriminate in what I cite, but my discriminations are not of the cleanly methodical type which can be written, shared, and handed out as even a suggested guide.
+
+Mostly, I cite Cyborgology and a select few blogs that I know really, really well. I have done so in my last three formally published works (two of which are Encyclopedia entries), and successfully suggested blog posts to others via peer-review. When pressed for a rationale (as I have been in conversations with colleagues), I less-than-confidently ramble something like:
+Well I mean, I know these bloggers to be good theorists, and I find their work useful for my own. Some of their work is published only in blog form, and I need those ideas to build my argument. I also don’t want to ignore something good that I know is out there. But I mean, I know there are other good things out there that I don’t know about, or don’t know enough to trust. And I know I’ve written bad ideas on Cyborgology, or ideas that I further developed later, so I guess quality is not a sure thing, but reviewers and editors have accepted it so…[insert sheepish grin].
+With this poorly articulated rationale in mind, I present first, some pros and cons to citing blogs within formal academic writing. Next, I put forth three main sub-questions that I think will help us—and by “us” I mean myself and the readers who grapple with the ethical and professional questions of rigor in standards of academic sourcing—organize our thoughts. 
+Pros and Cons of Blog Citation
+The following pros and cons of blog citation are far from exhaustive. Rather, I highlight some key tensions. Please feel free to address other benefits, complications, or tensions in the comments section.
+Pros
+There are several benefits to citing blogs. Importantly, as I list these benefits—largely through juxtaposition to traditional publication venues— I by no means eschew the benefits of traditional venues. Rather, I explore the possibility of a broader citation base.
+First, peer-reviewed journals are slow, jargon ridden, and often financially pay-walled (amiright David Banks, PJ Rey!?). Blogs are fast, self-published, and usually free. That is, the content of a blog becomes available far faster than that of a journal article, and is accessible to a wider audience. Including blogs within formal academic writing allows authors to utilize ideas that may not yet be available through traditional channels, and provides source materials for those without access to content hidden behind publishers’ blockades.
+Second, blogs can be written by anyone. Peer-reviewed journal articles and books are almost always authored by academics. This academic bias, like pay-walls and jargon, limits discursive participants, whereas blogs can potentially open discursive boundaries.
+Third, traditional journals rely on existing experts to decide what can/should be published. If an idea or methodology does not fit within an existing framework, its chances of acceptance diminish. Blogs are less susceptible this type of censorship, providing a wider breadth of theoretical building blocks and facilitating new theoretical directions.
+Cons
+The most obvious problem with citing blogs is that they are not peer-reviewed. They sit outside the agreed upon standard of academia, taking away the insurance policy (however flimsy that policy may be) of the peer-review process. Anyone with minimal computer literacy and access to a computer can publish a blog. Although this opens the discursive boundaries, it also means the discourse is far more crowded, and an academic writer must navigate the crowds with no clear rubric to discern rigor.
+Second, bloggers tend to write in piecemeal fashion. On Cyborgology, for instance, theories of Digital Dualism and Augmented Reality continue to develop over time. Early posts do not necessarily reflect current thinking, and current posts may have significant problems yet revealed. To cite a blog is therefore to run the risk of citing an incomplete idea, or an idea out of context.
+Third, blog posts are impermanent. Individual posts can be deleted, entire sites can be deleted, and texts can be edited with or without notification to the reader. This transience means that what one cites may not always exist, or may exist in a form that completely alters the meaning. On Cyborgology, we make an effort to notify readers of textual changes, but this is our editorial policy, not an across-the-board standard.
+With these benefits and deterrents in mind, we can further explore what blog citation might look like, and how we can make decisions about its usefulness. In this spirit, I present some key orienting questions.
+Three Orienting Questions
+1.) When is it okay to cite blogs in a formal academic paper?    
+Or, in other words, how can academic writers use blogs effectively in their writing? Thankfully, the use of blog posts in academic writing is not always ambiguous. Few would debate the use of blog posts as data sources within a discourse analysis. For example, if I wanted to analyze discourses on body size, food, and health, it would make sense to cite content from Health At Every Size,  HungryGirl, and food scholar Marion Nestle’s blog Food Politics.
+More ambiguous, of course, is the question of using content from these blogs, in their own right, as building blocks or even a foundation for, theoretical arguments. The journal publishing process tends to be frustratingly slow, and the contents of journals are often hidden behind financially prohibitive pay-walls. Blogs are a fast and usually free way to disseminate information. If the ideas are there, available to all, it seems like we can and should use them. I may need some idea to build a theoretical argument, and it may not be available to me for months, years, or ever if I rely solely on peer-reviewed publications. Moreover, as Whitney Erin Boesel (@phenatypical)  points out, it is important to give credit where credit is due, and if I find a blog post useful for building a theoretical argument, I should cite that blog post, giving credit to the author(s).
+At the same time, blogs are not peer-reviewed—if they were, they would be open access online journals and decisions about citation would be far less contentious. In the “information age,” one of the biggest challenges is sorting through an abundance of content. The peer-review process is an important tool here. It becomes a boundary within which the reader can feel relatively comfortable with the methodological soundness and theoretical rigor of a piece (although certainly not completely comfortable). To give the “ok” to cite blog posts opens the proverbial information floodgates, and unbounds the corpus of citable literature. What would such an anything-goes literature review look like?
+To be clear, I do not think anyone (or at least very few people) would argue for the anything-goes model. Even those who strongly believe that blog posts are legitimately citable material would likely agree that some blogs are better (read: more sophisticated, more rigorous) than others. This leads to the next question:
+2.) Which blogs are okay to cite, and how do we know?  
+Not all blogs are created equal. As mentioned in the opening paragraph, I cite some blogs (e.g. Cyborgology, Racism Review) but not all blogs. Going back to the food/health/body example from above, I would be pretty comfortable citing Marion Nestle’s blog but would balk at the idea of citing HungryGirl’s Lisa Lillien.  Basically, I cite the blogs that have writers I know and like. These writers are usually academics. I do not cite blogs with writers who I do not know, and who are not academics.
+The requirement that citable blogs be written by academics makes intuitive sense, but is highly problematic. First, it assumes that academics are always rigorous in their writings.  As we know from the high rejection rates of peer-reviewed journals, this is certainly not the case. In turn, it discounts those who are not affiliated with the academy. This is not only elitist, but reinforces institutional power hierarchies within knowledge production.
+However, one can counter the former point by noting the poor quality of some published articles, problematizing the false-security that comes along with a legitimizing label of “peer-reviewed.” One can then counter the latter point by noting that sole reliance on peer-reviewed materials necessarily creates an exclusionary power-knowledge relationship, one even more firmly cemented than author-credential based decisions.
+My imperfect solution is therefore to make subjective decisions on a case-by-case basis. Reviewers and readers are free to check my sources and make judgments of their own.
+3.) Who can cite blogs?
+Okay, now here comes the real hypocrisy. Although I cite blogs within academic writing, I explicitly forbid my undergraduate students from doing so. Their papers must include only peer-reviewed work unless I specifically approve of a non-peer-reviewed source.
+Oh, hi Privilege, nice to see you again. The key difference between my students and me (besides, of course, our taste in music and repertoire of Seinfeld quotes), is that I have a Ph.D. and they are working on Bachelor’s degrees. That is, we are differentiated by levels of education, and having a higher level of education gives me the privilege and power to determine the value of piece of writing, and denies this power and privilege to those with less formal education. To say it out loud feels like the academic equivalent of “Because I Said So.”
+At the same time, I have been trained in a particular field for several years. I have read the jargon-ridden journal articles, trudged through the 5-chapters-too-long books, and even contributed a few pieces of my own. Moreover, I have been a peer-reviewer, charged with making formal decisions about what is, and is not, a publishable piece of research. And so I take this training and I use it, again imperfectly, as a privilege, allowing myself to discern quality while urging others to wait until they have enough knowledge and practice to make such discernments. What “enough” is, however, remains quite nebulous. Perhaps as a brand new Ph.D. I grant myself too much license. Again, I leave it to my peer-reviewers to determine.
+And the Final Answer Is:
+Hey, I said at the beginning I was not going to provide a definitive answer. I think the ambiguity is indicative of a changing professional landscape. Decisions we make about citation—and ultimately, the legitimacy of different forms of work—will shape how intellectualism develops. The real question then, is how do we want the intellectual landscape to look?
+This was originally posted  at Cyborgology and is reposted with the author’s permission.
+Note: This article gives the views of the author, and not the position of the Impact of Social Science blog, nor of the London School of Economics.  
+About the Author
+Jenny Davis is a postdoctoral researcher in the Department of Sociology at Texas A&M University. She will begin an Assistant Professor appointment at James Madison University in Fall 2013. Jenny is also a weekly contributor for Cyborgology.org. You can follow Jenny on Twitter @Jenny_L_Davis.
+Share this:
+
+	Related
+							
+						
+				
+					May 8th, 2013|Academic communication, Academic Publishing, Open Access|23 Comments				
+			
+									
+				Share This Story, Choose Your Platform!
+				
+						
+							Facebook
+						
+						
+							
+								Facebook
+							
+						
+					
+															
+						
+							Twitter
+						
+						
+							
+								Twitter
+							
+						
+					
+																				
+						
+							Reddit
+						
+						
+							
+								Reddit
+							
+						
+					
+																				
+						
+							Google +1
+						
+						
+							
+								Google +1
+							
+						
+					
+																				
+						
+							Email
+						
+						
+							
+								Email
+							
+						
+					
+									
+									
+						
+				Previous post				Next post			
+			
+			
+												
+
+
+
+	
+		23 Comments
+		
+		
+
+		
+			
+							
+
+			
+
+				
+					Ninth Level Ireland » Blog Archive » The legitimacy and usefulness of academic blogging will shape how intellectualism develops
+					May 8, 2013 at 1:41 pm - Reply				
+
+				
+										[...] “Academic blogging has become an increasingly popular form, but key questions still remain over whether blog posts should feature more prominently in formal academic discourse …” (more) [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					The legitimacy and usefulness of academic blogg...
+					May 8, 2013 at 6:18 pm - Reply				
+
+				
+										[...] Academic blogging has become an increasingly popular form, but key questions still remain over whether blog posts should feature more prominently in formal academic discourse. Jenny Davis clarifies…  [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+				
+
+			
+
+				
+					Paul Cairney
+					May 8, 2013 at 8:07 pm - Reply				
+
+				
+										I wouldn’t try to ban students from citing blogs, but would show them why they should tread carefully: http://paulcairney.blogspot.co.uk/2013/04/using-internet-for-political-research.html
+				
+
+			
+
+		
+
+
+
+		
+			
+				
+
+			
+
+				
+					Jenny Davis
+					May 9, 2013 at 9:21 pm - Reply				
+
+				
+										Thanks for sharing this, Paul. Really a great resource. What strikes me in reading this is the importance of the researcher’s knowledge base in discerning the quality of non-peer-reviewed materials. I talk about this a bit in my post as well. I think it’s fair to think about such discernment as a learned skill, or an earned right, but it always leaves me with a lingering feeling of elitist discomfort. Is this a teleological form of knowledge production, in which privileged forms of knowledge perpetuate themselves? What, if anything, do we miss by placing differential limits on the “untrained”?
+				
+
+			
+
+		
+
+
+
+		
+			
+				
+
+			
+
+				
+					Paul Cairney
+					May 10, 2013 at 10:36 am - Reply				
+
+				
+										Yes, it is a tricky balancing act which we tend to address in perhaps a conservative or artistic way (by providing and recommending some mix between the traditional academic work and other sources and, therefore, a mix in the type of critical analysis that goes with it).
+				
+
+			
+
+		
+
+
+
+
+		
+
+		
+			
+				
+
+			
+
+				
+					Melanie Schlosser
+					May 8, 2013 at 8:32 pm - Reply				
+
+				
+										Excellent post! This is the most detailed exploration of the ethics and practicalities of citing blogs in scholarly literature I have seen, and it was really helpful. I can imagine another argument against normalizing blog citations, which is related to the first item on your ‘cons’ list. If citing blog posts becomes acceptable, will it eventually become mandatory? Will a lit review be considered incomplete if it only includes the peer-reviewed literature, and not the universe of related blogs? Personally, I think it’s a bogus argument, but the ever-expanding amount of scholarly literature is already a cause of anxiety for scholars who feel they can’t keep up. The specter of, “You mean I have to read all that, too??” could nudge otherwise open-minded faculty away from accepting blogs as citeable literature.
+				
+
+			
+
+		
+
+
+
+		
+			
+				
+
+			
+
+				
+					Jenny Davis
+					May 9, 2013 at 9:06 pm - Reply				
+
+				
+										I think this is a great point!! What bounds the corpus of citable literature? Does one need to cite everything, the first thing, or just the best thing? Does a researcher need to know ALL of the things to make the best citation decision? I think fear of drowning among the texts is, as you say, very much a driver of concerns over blog citation. You don’t buy this argument, and neither do I, but what are some ways in which we, as researchers, can manage an expanding corpus?
+				
+
+			
+
+		
+
+
+
+		
+
+		
+			
+				
+
+			
+
+				
+					Maryann Martone
+					May 9, 2013 at 6:57 pm - Reply				
+
+				
+										Excellent post.  As with almost everything, the answer is “sometimes”.  But I liken the blog post in some ways to the “personal communication” that is allowed to be cited in some journals under some contexts.  Blogs that inspire or inform an idea should be cited as a valid form of scholarly discourse in the proper context.  I think scholarship will only benefit from having access to and encouraging this type of uncensored communication.  Because if you think about it, peer review tells you what you can and cannot say within the boundaries of a domain.
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					The legitimacy and usefulness of academic blogging will shape how intellectualism develops | British Politics and Policy at LSE
+					May 11, 2013 at 12:00 pm - Reply				
+
+				
+										[...] article was originally published on LSE’s Impact of Social Sciences [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Somewhere else, part 52 | Freakonometrics
+					May 12, 2013 at 2:27 am - Reply				
+
+				
+										[...] legitimacy and usefulness of academic blogging will shape how intellectualism develops” http://blogs.lse.ac.uk/impactofsocialsciences/… via [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					The legitimacy and usefulness of academic blogging will shape how intellectualism develops | Impact of Social Sciences | Anything is Possible
+					May 12, 2013 at 6:29 am - Reply				
+
+				
+										[...] http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/08/the-place-of-blogs-in-academic-writing/ [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+				
+
+			
+
+				
+					Mike Taylor
+					May 12, 2013 at 10:17 pm - Reply				
+
+				
+										Many thanks for raising this. As far as I’m concerned, Matt Wedel struck the decisive blow in this debate with his observation that Blog citations are better than pers. comms. He characterises the latter as “a link that goes nowhere”. Anything is better than that.
+As when citing pers comms (and indeed peer-reviewed papers) the issue is whether the cited source is good research or not. The medium by which it’s published is of very minor importance in comparison.
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+				
+
+			
+
+				
+					Jan Moren
+					May 13, 2013 at 5:10 am - Reply				
+
+				
+										I think the real sticking point is that of permanence. Do you stand a good chance of finding the original source when you read the paper twenty years down the line? That, not the contents, is to me why you can’t treat blog citations the same as that of papers. 
+But that doesn’t mean we shouldn’t cite them. After all, we already have a far more impermanent, hard to verify citation source: the “personal communcation”. We accept that as a citation simply because it gives credit to an idea, even though it doesn’t count as authoritative. We also accept citations to posters, again without generally being able to produce the original.
+So perhaps the way to resolve this ambiguous standing is to treat blogs as a citation type of its own, separate from papers but similar to posters in gravity. I’d expect the citation type to actually encompass a wider range of online communication than jsut blogs, so I wouldn’t be surpsised if a rather generic category name such as “online ref: xxxx” or “online comm. xxx” would take hold in the end, with blogs just a special case.
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					What group is this? (Parallel transport in spaces with dilations, II) | chorasimilarity
+					May 13, 2013 at 12:38 pm - Reply				
+
+				
+										[...] free to contradict me, or to propose solutions. Of course, I shall cite any valuable contribution, even if it appears in a blog  (via +Graham [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Blog? Me? No, never! | Amateur Scientist
+					May 13, 2013 at 8:19 pm - Reply				
+
+				
+										[...] The legitimacy and usefulness of academic blogging will shape how intellectualism develops (blogs.lse.ac.uk) [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Introducing blogging in an academic institution – our story | SAS blogs
+					May 14, 2013 at 3:29 pm - Reply				
+
+				
+										[...] Blogging is often cited as one of the fastest growing social media tool for supporting research publication and impact in academia. It is also a great resourceful to promote research to an international audience. For example, take a look at this excellent post on the relevance of blogging in academia at the LSE Impact blog. [...]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					The legitimacy and usefulness of academic blogg...
+					October 16, 2013 at 6:54 pm - Reply				
+
+				
+										[…] Academic blogging has become an increasingly popular form, but key questions still remain over whether blog posts should feature more prominently in formal academic discourse. Jenny Davis clarifies…  […]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Openings | Clyde Street
+					December 9, 2013 at 12:21 am - Reply				
+
+				
+										[…] conclude this post with a link to another blog post. Earlier this year, Jenny Davis wrote about The legitimacy and usefulness of academic blogging will shape how intellectualism develops. Jenny introduces her post […]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Why write an academic blog? | IHURER Research and Policy Blog
+					January 10, 2014 at 9:37 am - Reply				
+
+				
+										[…] and discussion than through other channels. As Jenny Davis of Texas A&M University writes on the LSE Impact blog (originally published on […]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+				
+
+			
+
+				
+					Helen Rogers
+					September 12, 2014 at 7:52 am - Reply				
+
+				
+										Why not say to yourself & students, only cite blog sites that provide full references & active hyperlinks?  How will students learn to discern high quality blogs if we don’t allow them to read & cite them? 
+Citing and recommending good research blogs is a form of peer review that we need for this increasingly significant form of academic communication.
+Let’s get over ourselves & just get on with it. It’s the quality of blogging that will speak for the medium, not endless attempts to justify it!
+Helen
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Creating and Sustaining a Digital Personality. | Digital Humanities:MiniSeries on Academic Blogging
+					December 8, 2014 at 5:35 am - Reply				
+
+				
+										[…] –   http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/08/the-place-of-blogs-in-academic-writing/ […]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Creating and Sustaining a Digital Personality. | Digital Humanities: Academic Blog Resources.
+					December 10, 2014 at 7:01 am - Reply				
+
+				
+										[…] –   http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/08/the-place-of-blogs-in-academic-writing/ […]
+				
+
+			
+
+		
+
+
+		
+
+		
+			
+							
+
+			
+
+				
+					Blogs as an academic resource for undergraduates | Rachel Marsh
+					March 26, 2015 at 9:42 am - Reply				
+
+				
+										[…] Davis, Assistant Professor at James Madison University, cites blogs in her own research, and in ‘The Place of Blogs in Academic Writing’ discusses the benefit of using blogs in academic study. She states that peer-reviewed journals […]
+				
+
+			
+
+		
+
+
+		
+		    
+		    
+		
+	
+
+
+
+
+	
+	Leave A Comment
+	
+
+	Click here to cancel reply.
+
+	
+	
+
+		
+		
+
+			
+		
+		
+			
+			
+		
+		
+		
+			
+			Notify me of follow-up comments by email.Notify me of new posts by email.			
+		
+
+		
+	
+
+		
+	
+
+
+					

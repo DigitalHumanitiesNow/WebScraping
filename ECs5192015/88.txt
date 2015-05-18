@@ -1,0 +1,216 @@
+
+This post rolls up all of the major primary sources for the Facebook emotional manipulation study, along with selected news and commentary.
+
+Paper:
+
+“Experimental evidence of massive-scale emotional contagion through social networks” as PDF and as HTML (received Oct. 23, 2013, approved March 25, 2014, publication date June 17, 2014)
+Authors:
+
+Adam Kramer (Facebook)
+Jamie Guillory (UCSF Center for Tobacco Control Research and Education, previously Cornell)
+Jeffrey Hancock (Cornell Communications and Information Science)
+Cornell:
+
+June 10 Press release announcing study, with correction re: funding source (original press release)
+June 30 Statement
+Human subjects policy
+IRB approval flowchart
+Policy on social media research
+Press comments by Susan Fiske (Princeton, PNAS editor for study): to Adrienne LaFrance (“pre-exisiting dataset”), to Matt Pierce (“PNAS should not second-guess the relevant IRB”), to @ZLeeily (similar)
+UCSF: (Guillory became affiliated with UCSF only after the study was conducted)
+
+*Human subjects policy 
+
+Facebook:
+
+Current Data Use Policy (last revised November 15, 2013)
+Data Use Policy as of the time of the study (revised September 23, 2011)
+June 29 statement by Adam Kramer (confirmed to be Facebook’s statement on the matter)
+PNAS:
+
+Editorial policies including (ii) author credits and (vii) human subjects policies
+Editorial Expression of Concern
+Common Rule:
+
+Full text
+OHRP guidance (October 16, 2008)
+Previous Facebook studies:
+
+Effect of rainfall on emotional content
+Voter turnout (Nature, 2012)
+Social structure of networks (Physica A, 2011) (see also Michael Zimmer’s discussion)
+What Makes Us Click? Demonstrating Incentives for Angry Discourse with Digital-Age Field Experiments (Journal of Politics, 2012)
+Designing and Deploying Online Field Experiments (WWW: International World Wide Web Conference 2014)
+Journalism:
+
+Reed Albergotti and Elizabeth Dwoskin, Facebook Study Sparks Soul-Searching and Ethical Questions (Wall Street Journal, June 30, 2014)
+Reed Albergotti, Facebook Experiments Had Few Limits (Wall Street Journal, July 2, 2014)
+Facebook emotion study examined by privacy commissioner (CBC, July 3, 2014)
+Jessica Corbett, New questions, few answers in Cornell’s Facebook experiment (Ithaca Voice, July 3, 2014)
+Lisa Fleisher, Irish Data Privacy Watchdog To Probe Facebook’s Research Methods (Wall Street Journal, July 10, 2014)
+Lorenzo Francheschi-Bichhierai, The Mystery of the Facebook Manipulation Study’s Military Connection (Mashable, July 2, 2014)
+Brian Fung, The journal that published Facebook’s psychological study is raising a red flag about it (Washington Post, July 3, 2014) (PNAS “does not intend to investigate the study further”)
+Samuel Gibbs, Facebook policy head says emotion experiments were ‘innovative’ (The Guardian, July 3, 2014)
+Vindu Goel, As Data Overflows Online, Researchers Grapple With Ethics (New York Times, August 12, 2014)
+Kashmir Hill, Facebook Manipulated 689,003 Users’ Emotions For Science (Forbes)
+Kashmir Hill, Facebook Doesn’t Understand The Fuss About Its Emotion Manipulation Study (Forbes)
+Kashmir Hill, Facebook Got Permission To Do ‘Research’ On Users 4 Months After Emotion Manipulation Study (Forbes)
+Kashmir Hill, Ex-Facebook Data Scientist: Every Facebook User Is Part Of An Experiment At Some Point (July 7, 2014)
+Kashmir Hill, Facebook’s Chief Critic Wants Government To Investigate Websites Turning Users Into Guinea Pigs (July 17, 2014)
+J. Rai Krishna, Sandberg: Facebook Study Was ‘Poorly Communicated’ ( Wall Street Journal, July 2, 2014)
+Hannah Kuchler, UK data regulator probes Facebook over psychological experiment (Financial Times, July 1, 2014)
+Adrienne LaFrance, Even the Editor of Facebook’s Mood Study Thought It Was Creepy (The Atlantic)
+Robinson Meyer, Everything We Know About Facebook’s Secret Mood Manipulation Experiment (The Atlantic)
+Commentary:
+
+David Auerbach, Here Are All the Other Experiments Facebook Plans to Run on You (Slate, June 30, 2014)
+Michael Bernstein, The Destructive Silence of Social Computing Researchers (Medium, July 7, 2014)
+Whitney Erin Boesel, Facebook’s Controversial Experiment: Big Tech Is the New Big Pharma (Time, July 3, 2014)
+danah boyd, What does the Facebook experiment teach us? (July 1, 2014)
+Cornelius Puschmann & Engin Bozdag, Staking out the unclear ethical terrain of online social experiments, Internet Policy Review (Nov. 26, 2014)n
+Amy Bruckman, Annoying Internet Users in the Name of Science (July 8, 2014)
+Arthur Caplan and Charles Seife, Facebook Experiment Used Silicon Valley Trickery (NBC News, June 30, 2014)
+Nicholas Carr, The Manipulators: Facebook’s Social Engineering Project (Los Angeles Review of Books, Sept. 14, 2014)
+Chris Chambers, Facebook fiasco: was Cornell’s study of ‘emotional contagion’ an ethics breach? (The Guardian, July 1, 2014)
+Robert Chirgwin, Trick-cyclists rally round in defence of Facebook emoto-furtling study (The Register, July 2, 2014)
+Thomas Claburn, Facebook Researchers Toy With Emotions: Wake Up (Information Week, June 30, 2014)
+Kate Crawford, The Test We Can—and Should—Run on Facebook (The Atlantic, July 2, 2014)
+Jenny Davis, Facebook Has Always Manipulated Your Emotions (The Society Pages, June 30, 2014)
+Sebastian Deterding, Frame Clashes, or: Why the Facebook Emotion Experiment Stirs Such Emotion (Tumbling Conduct, June 29, 2014)
+Sebastian Deterding, The Facebook Loophole (Medium, July 1, 2014)
+Dan Diamond, The Outrage Over Facebook’s ‘Creepy’ Experiment Is Out-Of-Bounds — And This Study Proves It (Forbes, July 1, 2014)
+Robert Dingwall, On the ethics of Facebook – and drawing the right conclusions (Social Science Space, July 16, 2014)
+Ed Felten, Facebook’s Emotional Manipulation Study: When Ethical Worlds Collide (Freedom to Tinker, June 30, 2014)
+Ed Felten, Privacy Implications of Social Media Manipulation (July 1, 2014)
+Ed Felten, On the Ethics of A/B Testing (Freedom to Tinker, July 8, 2014)
+Tarleton Gillespie, Facebook’s algorithm — why our assumptions are wrong, and our concerns are right (Culture Digitally, July 4, 2014)
+Dan Gillmor, Being a Facebook ‘Lab Rat’ Is The Tradeoff We’ve Made (Talking Points Memo, July 2, 2014)
+David Gorski, Did Facebook and PNAS violate human research protections in an unethical experiment? (Science-Based Medicine, June 30, 2014)
+Noah Grand, Overstating and Understating the Influence of Facebook (Science of News, July 4, 2014)
+Mary Gray, When Science, Customer Service, and Human Subjects Research Collide. Now What? (Culture Digitally, July 9, 2014)
+Mary Gray et al., MSR Faculty Summit 2014 Ethics Panel Recap (transcript of July 14 panel discussing Internet research ethics post-Facebook experiment)
+James Grimmelmann, As Flies to Wanton Boys (The Laboratorium, June 28, 2014)
+James Grimmelmann, Illegal, Immoral, and Mood-Altering (Medium, July 23, 2014)
+Beki Grinter, That Facebook Study (Beki’s Blog, July 8, 2014)
+John M. Grohol, Emotional Contagion on Facebook? More Like Bad Research Methods (Psych Central)
+Mike Gurstein, Facebook Does Mind Control (Gurstein’s Community Informatics, July 1, 2014)
+Matthew Herper, Dear Facebook, Please Experiment On Me (Forbes, June 30, 2014)
+Stephanie Harriman and Jigisha Patel, The ethics and editorial challenges of internet-based research (BMC Medicine, July 15, 2014)
+Kashmir Hill, 10 Other Facebook Experiments On Users, Rated On A Highly-Scientific WTF Scale (Forbes, July 10, 2014)
+Kashmir Hill, After The Freak-Out Over Facebook’s Emotion Manipulation Study, What Happens Now? (July 10, 2014)
+Michael Hiltzik, Facebook on its mood manipulation study: Another non-apology apology (Los Angeles Times, July 2, 2014)
+Michael Hiltzik, Facebook’s user manipulation study: Why you should be very afraid (Los Angeles Times, June 30, 2014)
+David Hunter, Consent and ethics in Facebook’s emotional manipulation study (July 1, 2014)
+Alan Jacobs, the Empire strikes back (The New Atlantis, July 3, 2014) (with exchange in comments with Tal Yarkoni)
+Jeffrey P. Kahn, Effy Vayena, and Anna C. Mastroianni, Opinion: Learning as we go: Lessons from the publication of Facebook’s social-computing research (Proceedings of the National Academy of Sciences, September 23, 2014)
+Brian Keegan, The Beneficence of Mobs: A Facebook Apologia (BrianKeegan.com, July 2, 2014)
+Robert Klitzman, Did Facebook’s experiment violate ethics? (CNN, July 2, 2014)
+Maria Konnikova, Did Facebook Hurt People’s Feelings? (The New Yorker, July 3, 2014)
+Adrienne LaFrance, How Much Should You Know About How Facebook Works? (The Atlantic, August 20, 2014) (interview with Jeffrey Hancock)
+Clifford Lampe, Facebook Is Good for Science (Chronicle of Higher Education, July 8, 2014)
+Jaron Lanier, Should Facebook Manipulate Users? (New York Times, June 30, 2014)
+George Lawton, Why Is It Ethical Not to Test for Emotional Impact? (Torque, September 8, 2014)
+Natasha Lennard, OkCupid and Facebook Aren’t the Only Ones Manipulating You, but That’s No Excuse (Vice, July 29, 2014)
+Farhad Manjoo, The Bright Side of Facebook’s Social Experiments on Users (New York Times, July 2, 2014)
+Mike Masnick, Law Professor Claims Any Internet Company ‘Research’ On Users Without Review Board Approval Is Illegal (TechDirt, September 24, 2014)
+Brian Merchant, The Facebook Manipulations (Motherboard, July 3, 2014)
+Michelle Meyer, How an IRB Could Have Legitimately Approved the Facebook Experiment—and Why that May Be a Good Thing (The Faculty Lounge, June 29, 2014)
+Michelle Meyer, Misjudgements will drive social trials underground (Nature, July 16, 2014)
+Nick Montfort, The Facepalm at the End of the Mind (Post Position, July 13, 2014)
+Andrés Monroy-Hernández, A system designer’s take on the Facebook study – a response to danah boyd’s blog post (Social Media Collective, July 7, 2014)
+Frank Pasquale, Facebook’s Model Users (July 3, 2014)
+Frank Pasquale, Social Science in an Era of Corporate Big Data (Concurring Opinions, July 4, 2014)
+Chris Peterson, Nature and/of the News Feed (Medium, July 2, 2014)
+Jules Polonetsky & Omer Tene, The Facebook Experiment: Gambling? In This Casino? (Re/Code, July 2, 2014)
+Erica Portnoy, Facebook Study a Rare Public Reminder of Corporate Big Data’s Unaccountable Power (Equal Future, July 2, 2014)
+Nathaniel Poor, How to Circumvent Your IRB in 4 Easy Steps (/dev/culture, July 4, 2014)
+Galen Pranger, Why the Facebook Experiment is Lousy Social Science (Medium, August 28, 2014)
+Cornelius Puschmann and Engin Bozdag, All the world’s a laboratory? On Facebook’s emotional contagion experiment and user rights (Humboldt Institute, June 30, 2014)
+Emilee Rader, The effects of the “deep news feed” (Bitlab, July 2, 2014?)
+Scott Robertson, Facebook’s Going to Be OK, but Science Is Taking a Hit (Medium, July 9, 2014)
+Jay Rosen, Facebook’s controversial study is business as usual for tech companies but corrosive for universities (Washington Post, July 3, 2014)
+Jay Rosen, “I’ve been following the fallout …” (Facebook post, July 5, 2014)
+Jay Rosen, Jay Rosen to journalists and editors: ‘Facebook has all the power. You have almost none’ (World Editors Forum, July 10, 2014) (interview)
+Jay Rosen, Why Do They Give Us Tenure? (Jay Rosen’s PressThink, Oct. 25, 2014)
+Timothy Ryan, On the ethics of Facebook experiments (Washington Post, July 3, 2014)
+Michael Sacasas, The Facebook Experiment, Briefly Noted (The Frailest Thing, July 2, 2014)
+Matthew Salganik, After the Facebook emotional contagion experiment: A proposal for a positive path forward (Freedom to Tinker, July 7, 2014)
+Christian Sandvig, Corrupt Personalization (Multicast, June 26, 2014)
+Stuart Schechter and Cristian Bravo-Lillo, Using Ethical-Response Surveys to Identify Sources of Disapproval and Concern with Facebook’s Emotional Contagion Experiment and Other Controversial Studies (July 15, 2014)
+Zachary M. Schrag, A Bit of Historical Perspective on the Facebook Flap (Institutional Review Blog, June 30, 2014)
+David Ayman Shamma, Experiments, Data, and the Scientific Ecosystem. (Medium, July 8, 2014)
+Evan Selinger and Woodrow Hartzog, How to Stop Facebook From Making Us Pawns in Its Corporate Agenda (July 1, 2014)
+Micah Sifry, Why Facebook’s ‘Voter Megaphone’ Is the Real Manipulation to Worry About (TechPresident, July 3, 2014)
+Micah Sifry, Facebook Wants You to Vote on Tuesday. Here’s How It Messed With Your Feed in 2012. (Mother Jones, October 31, 2014)
+Daniel Solove, Facebook’s Psych Experiment: Consent, Privacy, and Manipulation (LinkedIn, June 30 2014)
+Jenny Stromer-Galley, Facebook Users or Lab Rats?: Ethical Research in the Age of Big Data (July 1, 2014)
+Zeynep Tufekci, Facebook and Engineering the Public (Medium, June 29, 2014)
+Duncan J. Watts, Stop complaining about the Facebook study. It’s a golden age for research (The Guardian, Monday 7, 2014)
+Duncan J. Watts, Lessons Learned From the Facebook Study (Chronicle of Higher Education, July 9, 2014)
+Dave Winer, About Facebook users and Facebook (Scripting News, July 4, 2014)
+D.  Yvette Wohn, Emotion Contagion or Conforming to Social Norms? Are we misinterpreting Facebook’s psych experiment? (June 29, 2014)
+Janet Vertesi, The Real Reason You Should Be Worried About That Facebook Experiment (Time, July 2, 2014)
+Lee Vinsel, What’s Really Behind The Facebook Psyche Experiment Controversy (Taming the American Idol, July 2, 2014)
+Paul Voosen, In Backlash Over Facebook Research, Scientists Risk Loss of Valuable Resource (Chronicle of Higher Education, July 1, 2014)
+Paul Voosen, Big-Data Scientists Face Ethical Challenges After Facebook Study (Chronicle of Higher Education, December 15, 2014)
+Tal Yarkoni, In Defense of Facebook (Citation Needed, June 28, 2014)
+Shoshana Zuboff, Dark Facebook: Facebook’s Secret Experiment in Emotional Manipulation Provides a Fresh Glimpse of its Radical Politics and Absolutist Ambitions (The Summons, July 1, 2014)
+Misc.:
+
+Michael Corey, A Sociologist Working at Facebook (OrgTheory.net, Jan. 14, 2014) (first-hand account of researcher working at Facebook)
+Andrew Ledvina, 10 ways Facebook is actually the devil (AndrewLedvina.com, July 4, 2014)
+Reimaging Facebook’s Emotional Contagion Study (The Orbital Eccentric, July 3, 2014) (redrawn version of results chart in study)
+Electronic Privacy Information Center, Complaint to Federal Trade Commission (July 3, 2014)
+American Psychological Association statement on informed consent (June 30, 2014)
+Letter from Sen. Mark R. Warner to Federal Trade Commission (July 9, 2014)
+James Grimmelmann and Leslie Meltzer Henry, Letter to Proceedings of the National Academy of Sciences (July 17, 2014)
+James Grimmelmann and Leslie Meltzer Henry, Letter to the Office for Human Research Protections (July 17, 2014)
+James Grimmelmann and Leslie Meltzer Henry, Letter to the Federal Trade Commission (July 17, 2014)
+James Grimmelmann and Leslie Meltzer Henry, Letter to Facebook (July 24, 2014), and Response from Edward Palmieri, Associate General Counsel, Privacy, Facebook (August 25, 2014)
+James Grimmelmann and Leslie Meltzer Henry Letter to OkCupid (July 30, 2014)
+James Grimmelmann and Leslie Meltzer Henry Letter to Maryland Attorney General Douglas F. Gansler (September 23, 2014)
+OK Cupid experiments:
+
+Christian Rudder, We Experiment On Human Beings! (OK Trends, July 28, 2014)
+David Auerbach, Big Data Is Overrated (Slate, July 30, 2014)
+David Banks, Don’t Opt Out, Take Back (Cyborgology, August 4, 2014)
+Jeff Bercovici, OkCupid’s Christian Rudder On Human Experiments And Getting Ugly People Dates (Forbes, Sept. 9, 2014)
+Christopher Caldwell, OkCupid’s venal experiment was a poisoned arrow  (Financial Times, August 1, 2014)
+Tim Carmody, Why don’t OKCupid’s experiments bother us like Facebook’s did (Kottke.org, July 28, 2014)
+Tim Carmody, The problem with OKCupid is the problem with the social web, (Kottke.org, August 1, 2014)
+Gregory Ferenstein, OkCupid draws illustration of users as guinea pigs, literally (VentureBeat, July 30, 2014)
+Brian Fung, OkCupid reveals it’s been lying to some of its users. Just to see what’ll happen. (Washington Post Switch Blog, July 28, 2014)
+Dan Gillmor, Is the internet now just one big human experiment? (The Guardian, July 29, 2014)
+Kashmir Hill, OkCupid Lied To Users About Their Compatibility As An Experiment (Forbes, July 28, 2014)
+Kashmir Hill, How OkCupid Informed Users They’d Been Part Of An Experiment (Forbes, July 29, 2014)
+Robert Howell, OK, Stupid–OK Cupid’s Ethical Confusion (The Daily Sabbatical, August 25, 2014)
+Selena Larson, Everyone’s A Lab Rat In OkCupid’s Labyrinth Of Love (ReadWrite, July 28, 2014)
+Dave Karpf, On the Ethics of A/B Testing (Shouting Loudly, July 31, 2014)
+Sam Machkovech, Did OKCupid’s dating-results experiment help an Arsian find love? (Ars Technica, July 30, 2014)
+Chadwick Matlin, Matchmaker, Matchmaker, Make Me A Spreadsheet (FiveThirtyEight, Sept. 9, 2014)
+Martin Robbins, Does OKCupid need our consent? (The Guardian, July 30, 2014)
+Jay Rosen, Listener’s guide to Christian Rudder explaining why OkCupid experimented with unwitting users (PressThink, August 3, 2014)
+Natasha Singer, OkCupid’s Unblushing Analyst of Attraction (N.Y. Times, Sept. 6, 2014)
+Casey Sullivan, OkCupid experiment may violate FTC rules on deceptive practices (Reuters, July 30, 2014)
+Charlie Warzel, OkCupid Data Scientist: “I’m Not Playing God” (BuzzFeed, July 28, 2014)
+Molly Wood, Looking for Love on the Web, as It Experiments With You (New York Times, July 28, 2014)
+Cat Zakrzewski, Why OKCupid’s Experiments Aren’t The Same As Facebook’s (TechCrunch, July 30, 2014)
+Interviews with Christian Rudder about OKCupid experiments:
+
+All Things Considered (July 29, 2014)
+BigThink (September 9, 2014)
+The Takeaway (July 30, 2014)
+TLDR (July 31, 2014) (Transcript)
+Ashley Madison study:
+
+American Sociological Association Press Release (August 19, 2014)
+Belinda Luscombe, Cheaters’ Dating Site Ashley Madison Spied on Its Users (Time, August 19, 2014)
+Facebook’s Modified Research Policy:
+
+Mike Schroepfer, Research at Facebook (Facebook Newsroom, October 2, 2014)
+Reed Albergotti, Facebook Tightens Oversight of Research (Oct. 2, 2014)
+Lorenzo Francheschi-Biccherai, Legal Experts Unimpressed with Facebook Oversight Promises (Mashable, Oct. 3, 2014)
+Vindu Goel, Facebook Promises a Deeper Review of Its User Research (New York Times, October 2, 2014)
+Michelle Meyer, Facebook Announces New Research Policies (The Faculty Lounge, October 2, 2014)
+Jay Rosen, [untitled] (Ello, October 3, 2014)
+

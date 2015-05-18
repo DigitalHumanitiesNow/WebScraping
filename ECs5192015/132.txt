@@ -1,0 +1,10 @@
+
+Opening up Classics and the Humanities: Computation, the Homer Multitext Project and Citizen Science 
+Gregory Crane
+University of Leipzig, Department of Computer Science
+Tufts University, Department of Classics
+September 2014
+ 
+Abstract: Increasingly powerful computational methods are important for humanists not simply because they make it possible to ask new research questions but especially because computation makes it both possible -- and arguably essential -- to transform the relationship between humanities research and society, opening up a range of possibilities for student contributions and citizen science. To illustrate this point, this paper looks at the transformative work conducted by the Homer Multitext Project (http://homermultitext.blogspot.de/; http://www.homermultitext.org/).
+
+

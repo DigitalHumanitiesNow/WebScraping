@@ -1,0 +1,174 @@
+
+					
+					
+    February 17, 2014 | 
+    2 Comments
+
+			
+
+
+
+		
+				
+
+	                Ethnography in Communities of Big Data: Contested expectations for data in the 23andme and FDA Controversy
+
+
+Brittany Fiore-SiIfvast	                                                
+	                
+	                
+						                	                
+	                	
+ Brittany Fiore-Silfvast (@brittafiore) is a PhD candidate in Communication at the University of Washington and she holds an MA in sociocultural anthropology from Columbia University. Her research focuses on the relationship of technology and emerging cultural and organizational forms. Her work cited in this article was supported in part by an NSF Doctoral Dissertation Improvement Grant and an Intel grant.
+Editor’s note: One of the disciplines big data is most strongly influencing is medicine, and here Brittany Fiore-Silfvast (@brittafiore)  applies her expertise to examine the interplay between health and technology to understand the implications of today’s unprecedented levels of patient data collection and analysis (although, notably, seldom including access to the data by those very patients who produced it). 
+Brittany hits upon a key issue with her post: seeing “big data” as a means of eliminating uncertainty through statistical analysis. While the elimination of uncertainty through statistical analysis is nothing new, the difference today is the scale at which collection and analysis of such data is unfolding and the diversity of the fields in which it is occurring. 
+Read on to discover the nature of conflict between the main personal genetics testing company 23andme, the importance of and difference between big data, small data, thick data, and DaM data, and the role that “Blue Suede Shoes” play in all of this. 
+For more posts from this  EPIC edition curated by  editor Tricia Wang (who gave the opening keynoted talk at EPIC this year), follow this link.
+
+
+Scott Beale / Laughing Squid laughingsquid.com
+
+Across the field of health and wellness there is a lot of talk about data, from consumer self-tracking and Quantified Self data, to data-driven, personalized health care, to data-intensive, crowd sourced, scientific discovery. But what are these different stakeholders talking about when they talk about data and are they talking about the same thing?
+At EPIC, in the “Big Data/Ethnography or Big Data Ethnography” session, I presented on this topic drawing from our ethnography of the impact of consumer big and small data on institutions of healthcare. In this post I use the recent controversy between the FDA and personal genetics testing company, 23andme, to exemplify many of the concepts my co-author, Dr. Gina Neff, and I develop in our EPIC paper “What we talk about when we talk data: Valences and the social performance of multiple metrics in digital health”, rather than simply re-present them.  I also demonstrate how ethnography can be leveraged in the context of so-called “big data” or data intensive transformations in science and practice.
+The controversy surfaced on November 22, 2013 when the FDA issued a warning letter to 23andme demanding they halt the marketing of their direct-to-consumer (DTC) genetic test kits until the service has received FDA device marketing authorization. In response, 23andme has stopped providing any “interpretation” suggesting health risk and solely provides “ancestry-related information and raw genetic data”[1] while they try to win FDA approval.
+Data Valences
+At the center of this controversy over how personal genetic testing should be regulated are a set of contested values and expectations for data –what we have called data valences (Fiore-Silfvast & Neff 2013). Data valences are the multi-dimensional expectations and values for data that mediate how data performs in different social systems. This concept emerged from our ethnographic fieldwork which we conducted over two years with the designers and users of internet-based health and wellness “tracking”. In examining the discourses and practices around both so-called “big data” and “small data”, (See Nafus and Sherman, forthcoming, for more on the “big” versus “little” or “small” data in health and wellness) we found that the different stakeholders and communities across the field of health and wellness are talking about different things when they talk about data.
+These communication gaps across communities of technology designers, “e-health” providers and advocates, and users of health and wellness data revealed the existence of contested data valences representing a wide range of expectations for how data is supposed to perform within different social and institutional contexts. Many technology innovators imagine big and little data as the future (and panacea) for healthcare, enabling a seamless flow of information across individual, scientific, and clinical contexts and heralding an era of personalized, predictive, preventative, even pre-emptive medicine. Yet, what we see in practice is friction for data moving across these contexts as communities and individuals value data in different ways and expect different things from data.
+As a way of articulating and understanding the varying expectations and values for data, we apply the concept of data valence, focusing specifically on six valences evident across the field of health and wellness: actionability, conversation/connection, transparency/openness, truthiness, discovery, and self-evidence (Fiore-Silfvast & Neff 2013).
+
+Actionability: An infographic of my Fitbit data using my data as the basis for taking action.
+
+
+Communication/Connection: The data doesn’t speak for itself. Case managers in a telehealth program are required to make sense of patient generated data. They use data as a site for conversation and story telling with patients.
+
+
+Discovery: 23andWe, the research arm of 23andme, calls for sharing data as the basis for discoveries.
+
+This framework helps us make sense of the recent controversy between 23andme and the FDA and map how data valences are contested in social interactions across regulated healthcare settings and unregulated consumer-oriented health and wellness practices.
+23andme at the Interstices
+23andme provides a service that straddles the fuzzy line between healthcare and personal wellness, between patient and consumer, and between device and data. Similar to a host of other consumer mobile health applications and biosensors (i.e. Fitbit, Basis, InsideTracker, Uchek) personal genetic testing is situated at the interstices of institutional regulation, pushing the boundaries of unregulated consumer health and wellness by offering a model of consumer experience with health data that takes place outside of conversations with health care providers and outside of healthcare  institutions, leaving the consumer to makes sense of and manage the implications of potential health risk factors in their everyday lives.
+23andme’s service occupies a gray area between offering consumers entertaining, educational, non-clinical interpretations of their DNA and offering personalized health risk information that could have medical implications and be clinically actionable. For instance, 23andme’s recent marketing campaign includes a TV commercial which presents a series of individuals each saying something they learned from their 23andme test results. One man says, “So that’s why the sun makes me sneeze”, right before another woman says “I might have an increased risk of heart disease”[2].
+The juxtaposition of these two statements demonstrate the challenge of regulation, which is not about the data per se, rather it is about the expectations for what that data will do and mean. The first comment frames 23andme data as a site for discovery and learning about yourself and your genealogy, which has historically been at the center of their marketing efforts[3]. 23andme has marketed many of these uses such as discovering your ancestry or the relative finder, which networks you with people you with which you share varying degrees of genetic information.
+In addition to these mostly non-clinical uses provided through the test, there are increasing amounts of personalized information about health risks and drug responses that have medical implications that the FDA is then responsible for regulating. The second comment in the commercial about health risks such as heart disease follows with the message “change what you can, manage what you can’t”, which begins framing 23andme’s service as the basis for behavior change, intervention, or varying degrees of actionability. Thus the genealogical and clinical interpretations are collapsed in this test, making it difficult to approach them with different expectations or, at times, meaningfully distinguish among them.
+The Challenge of Regulating Expectations
+For the FDA, the service of interpretation that 23andme provides to consumers that links genetic data to health risks and drug responses, which may have clinical implications, is the target of regulation, rather than the data itself. In the FDA’s letter to 23andme, they point to the marketing language 23andme uses to describe its services including “health reports on 254 diseases and conditions,” including categories such as “carrier status,” “health risks,” and “drug response,” and specifically as a “first step in prevention” that enables users to “take steps toward mitigating serious diseases” such as diabetes, coronary heart disease, and breast cancer” as overreaching into clinical interpretation with medical implications. From a regulatory perspective, these intended uses fall under the medical device classification, which presents an expectation of truthiness, that the algorithms and delivery system be analytically and clinically validated in particular ways and to particular levels of accuracy.
+The FDA is particularly concerned with people acting based on false or erroneous interpretations of data that should not be simply understood as objective truth. The FDA points to the “assessments for BRCA-related genetic risk and drug responses,” that could lead to “potential health consequences that could result from false positive or false negative assessments for high-risk indications such as these.” Conversely, they note that the BRCA-related risk assessment for breast or ovarian cancer could lead to “prophylactic surgery, chemoprevention, intensive screening, or other morbidity-inducing actions”, in the case of a false positive, “while a false negative could result in a failure to recognize an actual risk that may exist.”[4] In essence, the FDA’s position makes apparent the value of truthiness (requiring clinical and analytical validation) as well as the perception of truthiness around new kinds of data and algorithms, which could potentially become the bases for clinical actionability or liability. 
+Data as a failed resource for care
+In a clinical context, however, 23andme data is mostly not actionable. Even though the FDA claims that the test could lead to such things as “prophylactic surgery” and “chemo-prevention” this is not too likely as most physicians would conduct further clinical investigation, rather than clinically act based on the 23andme data. However, physicians will still be confronted with 23andme data as well as a range of other patient data generated outside the clinic that they will have to decide to act on or not act on, with potential clinical consequences either way.
+Across many of our interviews with physicians it became clear that data were not always considered the valuable resources that advocates for big data in health claim them to be. Patient data generated outside the clinic often required extra interpretive and managerial work, and created more liability and risk for physicians, without providing much more clinical actionability. One physician reflected that the most challenging parts of patients bringing in 23andme data was having to engage in a conversation teaching the basics of statistics and discussing the nature of the data itself, much less make sense of that data in medical and clinical terms.  Mostly physicians don’t know what to do with the data or what they mean clinically at this point.
+In addition to requiring more resources (time and money per patient) then, the data become a source of liability risk for whatever the physician does or doesn’t do in response. So in this case the risk for integrating a range of consumer-generated data, including personal genetic data, into clinical settings is not about the data per se, but what interventions data require, and which responsibilities are associated with that data.
+Gimme my DaM data!
+For many consumer health advocates what is at stake in this controversy is the FDA trying to curtail their individual rights to access their personal health data. Communities of patient rights activists and advocates for consumer driven disruptions in healthcare are demanding the liberation of all different types of personal health data from the constraints of clinical and medical settings and the return of that data into the hands of consumers. Beyond the genetic information at stake in this case, other types of information such as physician notes and medical device data have been the target of advocacy campaigns that hold the value of transparency and openness around data.
+For instance, Hugo Campos, is an e-patient, and data liberation advocate, who has made public through blogging, twitter, TEDx, and MEDx presentations, his struggle to gain access to the data his heart was generating through his implantable cardioverter defibrillator (ICD). Manufactured by Medtronic, the ICD functions to prevent sudden cardiac arrest, but also produces a range of data streams generated from the patient’s heart that are not available to patients.
+For Campos these data streams are valuable, and while data gathering was something he had consented to, he was frustrated that he had no way of accessing them, knowing them, or generating individual meaning from them.  Campos is part of a larger community of patient rights activists whose demands can be boiled down to the phrase “Gimme my DaM data”, where DaM is “Data about Me” (coined by e-patient Dave, aka Dave de Bronkhart) and celebrated in this humorous YouTube music video set to the tune of “My Blue Suede Shoes”.
+
+From this perspective data is valuable through transparency, at which point it can become a resource for discovery and individual meaning making, and potentially actionable for Campos in his efforts to use his heart’s data to save his own life or for individuals who aim to use their genetic information as a basis for wellness interventions or changing behavior in order to prevent or mitigate health risks.
+Cultural Frictions
+Our ethnographic research identified and mapped the cultural frictions between different stakeholder communities around health and wellness data. First, we can see tensions between the terms and consequences of actionability between clinical and non-clinical contexts. The rise of consumer-oriented health and wellness and chronic disease prevention and management mean that individuals and their data are moving back and forth between these contexts, blurring boundaries that were previously more well-defined. This raises questions about the reach, scope, and role of new spaces of sensemaking outside the clinic, such as peer to peer healthcare and direct to consumer models, such as 23andme.
+There is also a tension between the FDA’s concern around truthiness, in other words how the data is interpreted and validated and consumer health advocates’ expectations of transparent and open data as the site for discovery and more meaningful interpretation in the context of the individual. Ultimately, these tensions manifest as different ways of talking and imagining data. A data valence perspective here expands clinical and computational definitions of acceptable error and risk in interpretation (truthiness) to include a contextual view of how data is valued that supports different expectations for how that data will perform across different contexts.
+If we were to take a step back from this controversy, we would see that the consumer health oriented aspect of 23andme’s personal genome service is a relatively small part of a much larger strategy[5]. The strategic vision is to amass enormous amounts of personal genetic data (Anne Wojcicki, co-founder of 23andme, told Fast Company they had a goal of enrolling 25 million people[6]) that when aggregated and linked with phenotypic data could be used to fuel unprecedented biomedical discovery and pharmaceutical development. The 23andme arm of the company invites the consumer to learn about their personal genetics and “take a more active role in managing your health” while the 23andwe arm of the company invites the consumer to participate in research because “23andme isn’t just about you” and “with enough data, 23andWe can produce revolutionary findings that will benefit us all.” The FDA’s regulatory focus in this initial controversy only scratches the surface of the range of regulatory and ethical questions around how to manage contested data valences across the multiple contexts for privacy and reuse of big data. It grapples only with different interpretations of what genetic data points mean, by enforcing standards of verification, not yet with the multiple expectations for what data can do and how it will perform within different social contexts.
+Multiple data valences are especially apparent in the 23andme and FDA controversy because 23andme as a service has attempted to straddle multiple social and institutional contexts for data.  It is exactly in these interstitial interactions where there are not clearly delineated social norms and institutional regulations already in place that divergent and conflicting data valences become most apparent and also important for moving conversations beyond the data itself to the multiple values and expectations for data colliding simultaneously.
+Ethnography and Big Data
+Our ethnographic work within multiple stakeholder communities around data-intensive health and wellness revealed these important differences in how data itself was imagined, discussed, and valued, providing a necessary “thick data” (Wang 2013) layer to big data inquiry. These insights can be used to anticipate, map, and in some cases mitigate tensions between stakeholders as well as highlight the contextual dimensions of unwieldy issues such as privacy (See Nissenbaum and Patterson on “contextual privacy”). As ways of generating “truth” or ways of knowing become increasingly computationally driven, ethnographers are well-positioned to develop means of translation across different cultural groups and stakeholder communities.   Through observation and engagement in questions around what data is valuable, when, to whom, and why or for what purpose, ethnographers can work with communities to generate alternative and complementary metrics and hypotheses that support multiple data valences.
+Ethnographers can also help us understand the sociotechnical mediation of data-intensive knowledge production, and what is required in terms of organizational and information labor and infrastructure to facilitate meaningful and productive collaborations and enable a contextual approach to data-driven discovery. As increasingly data-intensive industries and stakeholder communities confront the challenges of big data (see boyd and Crawford 2011, Neff 2013), ethnography and qualitative methods should be essential parts of not only shaping the sensemaking processes of big data, but also defining the questions and problems themselves.
+References:
+boyd, danah and Crawford, Kate, Six Provocations for Big Data (September 21, 2011). A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society, September 2011. Available at SSRN: http://ssrn.com/abstract=1926431 or http://dx.doi.org/10.2139/ssrn.1926431
+Fiore-Silfvast, B. & Neff, G. (2013) What We Talk About When We Talk Data: Valences and the Social Performance of Multiple Metrics in Digital Health. Proceedings of Ethnographic Praxis in Industry Conference September 16-18, London, UK, pp. 48-62.
+Nafus, D. & Sherman, J. (forthcoming) This One Does Not Go Up To Eleven:  The Quantified Self Movement as an Alternative Big Data Practice. International Journal of Communication.
+Neff, G. Why Big Data Won’t Cure Us. Big Data, 1(3): 117-123.
+Patterson, H. & Nissenbaum, N. (n.d.). Context-dependent expectations of privacy in Self-generated mobile health data. Working paper, Media, Culture and Communication Department, New York University. 52 p.
+Wang, Tricia. (2013). The Conceit of Oracles. Keynote address, Ethnography in Praxis in Industry Conferences.
+
+
+[1] https://www.23andme.com/health/
+
+
+[2] http://www.youtube.com/watch?v=GEuI0nMNkTI
+
+
+[3] http://www.forbes.com/sites/matthewherper/2013/11/25/23andstupid-is-23andme-self-destructing/
+
+
+[4] http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2013/ucm376296.htm
+
+
+[5] See http://www.scientificamerican.com/article.cfm?id=23andme-is-terrifying-but-not-for-reasons-fda
+
+
+[6] http://www.fastcompany.com/3018598/for-99-this-ceo-can-tell-you-what-might-kill-you-inside-23andme-founder-anne-wojcickis-dna-r
+
+
+
+
+_______________
+Other posts in the EPIC 2013 theme:
+Why go to an ethnography conference?: Notes from the EPIC 2013 Conference, by Tricia Wang (@triciawang)
+I’m Coming Out: Four Awkward Conversations for Commercial Ethnographers, by Drew Smith (@drewpasmith)
+An Interview with the head of User Research at the UK Government Digital Services: Leisa Reichelt, by Leisa Reichelt (@leisa)
+Lessons Learned From EPIC’s Mobile Apps & Quantified Self Workshop, by Mike Gotta (@Mikegotta)
+What We Buy When We Buy Design Research: Bridging “The Great Divide” between Client and Agency Research Teams, by Andrew Harder (@thevagrant) and Hannah Scurfield (@theduchess) 
+Play nice: design ethnographer meets management consultant, an interview with Alicia Dudek from Deloitte Digital, by Alicia Dudek (@aliciadudek)
+A Psychologist Among Ethnographers: an Interview with Beatriz Arantes of Steelcase, Beatriz Arantes (@beatriz_wsf)
+An Interview with Anthropologist Danny Miller about his latest research on social media & hospices, by Dr. Daniel Miller (@dannyanth) 
+A case study on inclusive design: ethnography and energy use, by Dr Dan Lockton (@danlockton)
+Funny Money: A ethnography of local currencies, by Mario Campana (@mariocampana)
+Strategic Ethnography: Reinvigorating the Core of a Retail Giant, Tesco, by Mary Yoko Brannen (@maryyokobrannen)
+Demystifying MOOCs: An Eye-Opening Ethnographic Study of Online Education, by Christina Wasson
+
+
+ 
+
+
+
+
+Translation
+English中文(简体)FrançaisEspañol
+by 
+
+
+
+You can help improve the automatic translation by checking off “Edit Translation” after you select a language. Thanks!
+
+
+
+Related Posts
+App-ography: A critical perspective on medical and health…
+Why go to an ethnography conference?: Notes from the EPIC…
+A shift in the business environment that ethnographers…
+The Ethnographer’s Complete Guide to Big Data: Small…
+April 2013: Ethnomining and the combination of qualitative…
+The ethics of openness: How informed is “informed…
+
+
+
+
+Share this:
+
+Twitter
+Facebook
+Google
+Email
+More
+
+
+
+LinkedIn
+Reddit
+
+StumbleUpon
+Print
+
+Tumblr
+Pinterest
+
+Pocket
+
+
+
+
+
+
+	                												
+										
+					Tags: *edition post*, 23andme, academia, academic, applied anthropology, applied ethnography, applied research, applied sociology, big data, Brittany Fiore-Silfvast, commercial, commercial ethnography, communication, consumer health, corporate, corporate ethnography, culture, data valence, data valences, design, digital, digital culture, digital ethnography, ethnographer, ethnographic research, ethnography, FDA, featured, fieldwork, genetic testing, genome, health hacking, industry, industry anthropology, internet, online, organization, personal genetics testing, personalized medicine, qualitative, qualitative research, qualitative research methods, quantified self, regulation, research, self-tracking, small data, social science, sociology, techno-social, technology, telehealth, university, University of Washington, virtual, wellness	                                
+	            

@@ -1,0 +1,19 @@
+
+
+
+	This month Adam Farquhar and I attended Digital Humanities 2014 in Lausanne, Switzerland, the latest annual DH jamboree run by the Alliance of Digital Humanities Organizations.
+Two contributions proposed by the British Library made it through the rigorous peer review process and into the conference proper. Adam and I presented a poster on our vision for a digital infrastructure that would enable scaleable and innovative research with our digital collections. Very much intended as a conversation starter, we were heartened by the positive and constructive feedback we received. Entitled 'Interoperable Infrastructures for Digital Research: A proposed pathway for enabling transformation' this poster is available for use and reuse via Figshare.
+
+Along with librarians from Stanford, Columbia, Virginia, and NUI Maynooth I ran a workshop on the first day of the conference entitled 'Methods for Empowering Library Staff Through Digital Humanities Skills'. This workshop provided an opportunity not only for organisations with similar library facing digital scholarship training programmes to share ideas, but also for librarians considering putting together comparable programmes to develop and deliver a mock pitch in a friendly and constructive environment. My slides on our Digital Scholarship Training Programme are available on Slideshare.
+    DH2014: Digital Scholarship Training Programme at the British Library  from James Baker 
+The fact that so many librarians were at this session, and DH2014 more broadly, speaks to range and breadth of attendees at the conference. Indeed it was pleasing to find DH as studying poetry and literature with digital tools to be only one component of the work going on under the auspices of DH. Stand out papers we attended included Ian Milligan 'Clustering Search to Navigate A Case Study of the Canadian World Wide Web as a Historical Resource', Kari Kraus 'Signal & Noise: ENF as part of the sound archivist's toolkit' (which discusse using the Electric Network Frequency data embedded in audio recordings to date, timestamp, and locate them), Stéfan Sinclair and Geoffrey Rockwell 'Towards an Archaeology of Text Analysis Tools', and stellar keynotes from Bethany Nowviskie on 'digital humanities in the anthropocene' and Bruno Latour on 'Rematerialising Humanities Thanks to Digital Traces'. All my notes from these sessions are available on GitHub under CC BY licenses .
+It was also pleasing to hear our work over recent months spoken about by others. Julianne Nyhan made mention of our release of 1 million images onto Flick Commons in her talk 'Facial recognition in DH: new directions?' Elsewhere, Kim Martin and Anabel Quan-Haase analysed the Mechanical Curator alongside other serendipitous machines such as Serendip-o-matic in their talk 'Designing the next big thing: Randomness versus serendipity in DH tools'.
+A running theme of DH2014 was DH beyond the Anglophonic world (see for example a session on the GO::DH Minimal Computing Group) and Digital Humanities 2015 will take the theme 'Global Digital Humanities'. And appropriately for a conference that has hitherto taken place in only Europe or North America, hosting responsibilities will pass to the University of Western Sydney's Digital Humanities Research Group. We hope to be there in some form, if not in person then at least virtually.
+James Baker
+Curator, Digital Research
+@j_w_baker
+
+
+
+
+

@@ -1,0 +1,217 @@
+
+                    
+                    
+                        
+                    
+                    
+                
+                
+                
+                S1E7: Humanities Savior Narrative
+Glen Worthey, Digital Humanities Librarian, Stanford University Libraries, joins Elijah Meeks, Jason Heppler, and Paul Zenke to discuss his experiences at DH 2014, the popularity of DH projects, the humanities savior narrative, mentorship, Twitter, #dhsheep, linguistic inclusivity at conferences, and the future of DH programs.
+Subscribe via iTunes | Download
+Subscribe to our newsletter.
+
+#dhsheep image credit: Anna Herbert. Thanks @drbruceherbert.
+
+DH13 stickers. Photo by Jason Heppler.
+Show Notes
+DH 2014 : 7-12 July 2014 | Co-organized by ADHO, Unil (LADHUL) and EPFL (DHLAB)
+
+Digital Humanities 2014 official website.
+
+Editor’s Choice: Round-Up – Digital Humanities 2014 Conference Papers | Digital Humanities Now
+
+A roundup of posts about DH14.
+
+The Association for Computers and the Humanities 
+
+The Association for Computers and the Humanities is your professional society for the digital humanities! Through our activities, conferences, and publications, we support computer-assisted research, teaching, and software and content development in humanistic disciplines.
+
+Glen Worthey (gworthey) on Twitter
+
+Digital Humanities Librarian @ Stanford
+
+ADHO
+
+The Alliance of Digital Humanities Organizations (ADHO) promotes and supports digital research and teaching across all arts and humanities disciplines, acting as a community-based advisory force, and supporting excellence in research, publication, collaboration and training.
+
+CSDH/SCHN
+
+CSDH/SCHN is the scholarly association for Digital Humanities in Canada and beyond. It is a member of the Alliance of Digital Humanities Organizations (ADHO) and membership is through a subscription to the LLC journal.
+
+EADH - The European Association for Digital Humanities
+
+The EADH brings together and represents the Digital Humanities in Europe across the entire spectrum of disciplines that research, develop, and apply digital humanities methods and technology. These include art history, cultural studies, history, image processing, language and literature studies, manuscripts studies, and musicology, amongst others. The EADH also supports the formation of DH interest groups in Europe that are deﬁned by region, language, methodological focus or other criteria.
+
+centerNet
+
+centerNet is an international network of digital humanities centers.
+
+Japanese Association for Digital Humanities
+
+The field of humanities is undergoing a radical transformation in its encounter with rapid developments in the digital domain. In response to this situation, various efforts have been undertaken based on collaboration between the humanities and the information technologies in Japan and foreign countries. Recently, various related activities have been carried out under the rubric of Digital Humanities in Europe and North America. Progress in this area in Japan however, has been hindered in a couple of ways. For example, there have been limits to the extent of the collaboration between Japanese digital humanities specialists and their counterparts in the West brought about by the basic difficulties with the digitization of the characters and texts that compose Japanese resources. In general, the results of digitization efforts in Japan in the humanities disciplines have not been commensurate with the huge effort and expense made heretofore. To begin to resolve such issues, we intend to establish the Japanese Association for Digital Humanities (JADH), which aims to form an environment where international collaborative works are more fully realized.
+
+Australian Association for Digital Humanities
+
+The Australasian Association for Digital Humanities Inc (aaDH) was formed in March 2011 to strengthen the digital humanities research community in our region and is a member of the international Alliance of Digital Humanities Organisations (ADHO). The professional association acts to support and extend links between digital humanities researchers, improve professional development opportunities and provide international leverage for local projects and initiatives. We organise the Digital Humanities Australasia conference every two years as well as provide other opportunities for the application and understanding of digital technologies in the humanities. You can join the aaDH through subscription to LLC.
+
+digital humanities in the anthropocene « Bethany Nowviskie
+
+What is a digital humanities practice that grapples constantly with little extinctions and can look clear-eyed on a Big One?
+
+DataViz: the Digital Humanities Network on Twitter (#DH2014)
+
+The graph below represents all the “mentions” contained in the #DH2014 tweets (a tie connects two users when one mentions the other at least once in a message). The size of the circles indicates the number of tweets sent. The intensity of the color depends on the number of incoming mentions (in degree): the more a user is mentioned, the clearer the color (from blue to white between 0-100 mentions, and white for more).
+
+Mark Algee-Hewitt | Department of English
+
+Mark Algee-Hewitt’s research focuses on the eighteenth and early nineteenth centuries in England and Germany and seeks to combine literary criticism with digital and quantitative analyses of literary texts. In particular he is interested in the history of aesthetic theory and the development and transmission of aesthetic and philosophic concepts during the Enlightenment and Romantic periods. He is also interested in the relationship between aesthetic theory and the poetry of the long eighteenth century. Although his primary background is in English literature, he also has a degree in computer science. As the co-associate research director of the Stanford Literary Lab, he is working to bring his interests in quantitative analysis, digital humanities and eighteenth-century literature to bear on a number of new collaborative projects.
+
+Stanford Literary Lab
+
+The Stanford Literary Lab — founded in 2010 by Matthew Jockers and Franco Moretti — discusses, designs, and pursues literary research of a digital and quantitative nature. The Lab is open to all students and faculty at Stanford — and, on a more ad hoc basis, to students and faculty from other institutions.
+
+Lausanne - Switzerland Tourism
+
+Lausanne, the second-largest city on Lake Geneva, combines a dynamic commercial town with the locality of a holiday resort. The capital of the canton of Vaud is also a lively university and convention town. Sports and culture are given a high profile in the Olympic capital.
+
+Lord Byron - Wikipedia, the free encyclopedia
+
+George Gordon Byron, 6th Baron Byron, later George Gordon Noel, 6th Baron Byron, FRS (22 January 1788 – 19 April 1824), commonly known simply as Lord Byron, was an English poet and a leading figure in the Romantic movement. Among Byron’s best-known works are the lengthy narrative poems Don Juan and Childe Harold’s Pilgrimage and the short lyric She Walks in Beauty. He is regarded as one of the greatest British poets and remains widely read and influential.
+
+Digital Humanities 2013 | University of Nebraska–Lincoln, 16-19 July 2013
+Culturomics
+Erez Lieberman Aiden
+
+You’ve reached the home page of Erez Lieberman Aiden. I am currently an assistant Professor in the Department of Genetics at the Baylor College of Medicine, where I direct the newly-established Center for Genome Architecture, and in the Department of Computer Science and Computational and Applied Mathematics at Rice University across the street.
+
+Jean-Baptiste Michel
+
+Jean-Baptiste graduated as an Engineer of Ecole Polytechnique (Paris, France) in 2005. Since then, he completed an MS in Applied Mathematics and a PhD in Systems Biology at Harvard University. Jean-Baptiste is interested in quantitative aspects of phenomena directly relevant to human life, such as the evolution of disease-causing cells during pathogenesis, violence during conflicts, or the way language and culture change with time. He currently develops a quantitative approach to the study of trends in human languages and cultures based on millions of digitized texts.
+
+Conference video: Closing Keynote by JB Michel and Erez Lieberman | Digital Humanities 2011: June 19 – 22
+‘Uncharted,’ by Erez Aiden and Jean-Baptiste Michel - NYTimes.com
+
+To test this evolutionary premise, Mr. Aiden and Mr. Michel wound up inventing something they call culturomics, the use of huge amounts of digital information to track changes in language, culture and history. Their quest is the subject of “Uncharted: Big Data as a Lens on Human Culture,” an entertaining tour of the authors’ big-data adventure, whose implications they wildly oversell.
+
+Digital Humanities 2011: June 19 – 22 | Big Tent Digital Humanities
+The limits of the digital humanities, by Adam Kirsch | New Republic
+
+The language here is the language of scholarship, but the spirit is the spirit of salesmanship—the very same kind of hyperbolic, hard-sell approach we are so accustomed to hearing about the Internet, or about Apple’s latest utterly revolutionary product. Fundamental to this kind of persuasion is the undertone of menace, the threat of historical illegitimacy and obsolescence. Here is the future, we are made to understand: we can either get on board or stand athwart it and get run over.
+
+Twitter / Ted Underwood
+
+Hey, you haven’t really arrived till you get attacked in TNR.
+
+Why are such terrible things written about DH? Kirsch v. Kirschenbaum | Digital Humanities at Stanford
+
+Last week I read one of the latest and loudest salvos in a sad and very silly war on the digital humanities: Adam Kirsch, in The New Republic, chose to put his pugnacious piece out under not one, but two inflammatory titles: “Technology is Taking Over English Departments: The false promise of the digital humanities.” Oh, please.
+
+Bay Area DH
+
+SF Bay DH is currently an informal group of individuals in the San Francisco Bay Area with a shared interest in digital humanities research, tool and project development, and/or pedagogy. Our goal is to foster a vibrant digital humanities community by raising awareness of local projects, tools and people, as well as promoting events (lectures, workshops, free classes, etc.) held in the region.
+
+Matthew G. Kirschenbaum
+
+Matthew G. Kirschenbaum is Associate Professor in the Department of English at the University of Maryland and Associate Director of the Maryland Institute for Technology in the Humanities (MITH, an applied thinktank for the digital humanities). He is also an affiliated faculty member with the Human-Computer Interaction Lab at Maryland, and a member of the teaching faculty at the University of Virginia’s Rare Book School. Kirschenbaum served as the first director of the new Digital Cultures and Creativity living/learning program in the Honors College at Maryland.
+
+Mechanisms | The MIT Press
+
+In Mechanisms, Matthew Kirschenbaum examines new media and electronic writing against the textual and technological primitives that govern writing, inscription, and textual transmission in all media: erasure, variability, repeatability, and survivability. Mechanisms is the first book in its field to devote significant attention to storage–the hard drive in particular–arguing that understanding the affordances of storage devices is essential to understanding new media. Drawing a distinction between “forensic materiality” and “formal materiality,” Kirschenbaum uses applied computer forensics techniques in his study of new media works. Just as the humanities discipline of textual studies examines books as physical objects and traces different variants of texts, computer forensics encourage us to perceive new media in terms of specific versions, platforms, systems, and devices. Kirschenbaum demonstrates these techniques in media-specific readings of three landmark works of new media and electronic literature, all from the formative era of personal computing: the interactive fiction game Mystery House, Michael Joyce’s Afternoon: A Story, and William Gibson’s electronic poem “Agrippa.”
+
+News | ADHO
+
+One new element to this year’s conference is an attempt to facilitate informal and voluntary translation by distributing buttons people can wear indicating what languages they are willing to talk or otherwise assist in. This effort is the result of a collaboration between ADHO’s Global Outlook Special Interest Group and our Multilingualism and Multicuturalism Committee. Please be on the look out for the “I Whisper in … buttons,” and offer to wear one yourself if you are fluent in a language other than English. They can be found near the registration desk. We are especially grateful to Elika Ortega, Dan O’Donnell, and Alex Gill of GO::DH for helping to organize this effort.
+
+Humanidades Digitales - ACERCA DE
+
+La RedHD surgió como una iniciativa de un grupo de académicos y académicas que nos reunimos para discutir de qué forma podíamos impulsar y apoyar la formalización de las Humanidades Digitales en junio 2011. La RedHD se consolidó a partir de cuatro talleres de trabajo en donde discutimos , entre otros, asuntos relacionados con reconocimiento, financiamiento, derechos de autor, promoción, capacitación de recursos humanos, infraestructura, aislamiento.
+
+Antonio Zampolli Prize | ADHO
+
+The Antonio Zampolli Prize is an award of the Alliance of Digital Humanities Organisations (ADHO). It is named in honour of the late Professor Antonio Zampolli (1937-2003), who was one of the founding members of the Association for Literary and Linguistic Computing (ALLC) in 1973, and ALLC President 1983-2003. He was a major figure in the development of literary and linguistic computing from the 1960s, and an enthusiastic supporter of the joint international conferences of ALLC and the Association for Computers and the Humanities (ACH), which were initiated in 1989. He was also a prime mover in the Text Encoding Initiative, both in the initial 11-year project, and in the establishment of the TEI Consortium. The Zampolli award is given to recognise a single outstanding output in the digital humanities by any scholar or scholars at any stage in their career.
+
+DHSI | Digital Humanities Summer Institute
+
+The Digital Humanities Summer Institute provides an ideal environment for discussing and learning about new computing technologies and how they are influencing teaching, research, dissemination, creation, and preservation in different disciplines, via a community-based approach.
+
+Humanities Intensive Learning & Teaching
+Manuscripts and Machines
+
+My name is Michael Widner. I am in the employ of the Stanford University Libraries, where I work as the Academic Technology Specialist for the Division of Literatures, Cultures, and Languages (DLCL). My role is to work with faculty and their research assistants as a consultant, collaborator, and innovator in DLCL-based digital humanities and instructional technology projects.
+
+CDRH | Center for Digital Research in the Humanities
+
+The Center for Digital Research in the Humanities (CDRH) advances interdisciplinary, collaborative research, and offers forums, workshops and research fellowships for faculty and students in the area of digital scholarship. This is a life-changing experience for students and faculty alike, leading to new ways of thinking about the humanities. Through the CDRH, faculty and students create research sites and tools that push our understanding of history, literatures, languages, and culture.
+
+Digital History Project
+
+Digital history is an emerging and rapidly changing academic field. The purpose of the Digital History Project is to educate scholars and the public about the state of the discipline.
+
+Brian L. Pytlik Zillig
+
+Brian Pytlik Zillig is Professor and Digital Initiatives Librarian at the Center for Digital Research in the Humanities.
+
+Stephen Ramsay | About
+
+Stephen Ramsay is Susan J. Rosowski Associate University Professor of English at the University of Nebraska and a Fellow at the Center for Digital Research in the Humanities. He splits his time between pontificating about digital humanities, teaching humanities majors to program, and designing and building text technologies for humanist scholars.
+
+Douglas Seefeldt - Ball State University
+
+Douglas Seefeldt is Assistant Professor and Emerging Media Fellow at Ball State University. His research focuses on the intersections of history and memory in the 19th and 20th-century American West. Seefeldt is Senior Digital Editor of The Papers of William F. Cody at the Buffalo Bill Historical Center in Cody, WY, and Co-Director of the William F. Cody Archive, as well as a co-editor of the Digital History Project.
+
+About the CDRH | William G. Thomas, III
+
+William G. Thomas III teaches U.S. history and specializes in Civil War, the U.S. South, Slavery, and in Digital History/Digital Humanities. He is currently the Chair of the Department of History at the University of Nebraska-Lincoln and has served as the John and Catherine Angle Professor in the Humanities at Nebraska since 2005. He earned his B.A. in History at Trinity College in Connecticut and his M.A. and Ph.D. in History at the University of Virginia.
+
+University of Victoria - Humanities - About Us - Digital Humanities
+
+In Digital Humanities, research and teaching are conducted on texts that are analyzed using electronic tools. Often, these tools have to be created first. Digital Humanists may study old texts (for example, by analysing different versions of medieval manuscripts) or new ones (for example, by second language learners creating wikis). They may study visual texts (for example, by creating enhanced maps). Among other things, DH research looks at how these enhanced digital texts unveil mysteries of the past, how the experience of interacting with these texts changes learning and teaching, how scholarship takes a new direction and in what way this influences our society.Virginia DH (Scholar’s Lab, VCDH)
+
+The Institute for Advanced Technology in the Humanities
+
+IATH is a research unit of the University of Virginia established by the University of Virginia in 1992. Our goal is to explore and develop information technology as a tool for scholarly humanities research. To that end, we provide our Fellows with consulting, technical support, applications development, and networked publishing facilities. We also cultivate partnerships and participate in humanities computing initiatives with libraries, publishers, information technology companies, scholarly organizations, and other groups residing at the intersection of computers and cultural heritage. The research projects, essays, and documentation presented here are the products of a unique collaboration between humanities and computer science research faculty, computer professionals, student assistants and project managers, and library faculty and staff.
+
+The Virginia Center for Digital History at The University of Virginia
+
+The Virginia Center for Digital History (VCDH) is an independent center within the College of Arts and Sciences at the University of Virginia. VCDH was founded in 1998 by Edward L. Ayers and William G. Thomas, III. At its founding VCDH was charged with creating new forms of historical scholarship and with performing public service and outreach. In these roles VCDH is home to a number of digital projects spanning the range of American history, from the Jamestown settlement, to the Civil War, to the Civil Rights movement. These projects are built to be used by K-12 educators, and the general public, as well as by college students, and scholars.
+
+Scholars’ Lab
+
+At the University of Virginia Library Scholars’ Lab, advanced students and researchers across the disciplines partner on digital projects and benefit from expert consultation and teaching. Our highly-trained faculty and staff focus on the digital humanities, geospatial information, and scholarly making and building at the intersection of the digital and physical worlds. The SLab hosts workshops and a popular lecture series, and supports emerging scholar-practitioners through Graduate Fellowships in Digital Humanities and UVa’s innovative Praxis Program.
+
+What the Failed Removal of UVA President Teresa Sullivan Means for Higher Education - NYTimes.com
+#19 - co,Co,CougH by Accky on SoundCloud
+
+The First Draft theme song. (CC BY-SA 3.0)
+
+Thanks for listening.
+                
+                
+                
+                
+                
+                            Share this:
+                        
+                        
+                            
+                                
+                            
+                        
+                        
+                            
+                                
+                            
+                        
+                        
+                            
+                            
+                        
+                        
+                        
+                            
+                                
+                            
+                        
+                    

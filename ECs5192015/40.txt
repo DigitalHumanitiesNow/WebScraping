@@ -1,0 +1,38 @@
+
+				
+	
+We’ve seen digital humanities in terms of “projects” since Roberto Busa indexed Thomas Aquinas. But lately it seems to me that the imperative to continuously produce something is getting in the way of how people actually think and grow. What if we viewed digital methods as a contribution to the long arc of a scholar’s intellectual development, rather than tools we pick up in the service of an immediately tangible product? Perhaps we’d come up with better ways of investing in people’s long-term potential as scholars.
+It’s natural for DH centers, especially newish ones, to want to spread the word about digital humanities. But increasingly I suspect that issuing a faculty call for projects is not the way to do it.
+Why?
+Most faculty members who are new to digital humanities will not be able to design a sound, thoughtful, achievable project proposal, even with help from center staff, because …
+The power imbalance between faculty members and staff members within the academic hierarchy means that it requires extraordinary diplomatic skills to dissuade a faculty member from launching full-bore into an ill-conceived project.
+Novice faculty members often underestimate how much time a digital project will take, and often can’t or won’t commit to showing up to the necessary meetings and providing data when requested.
+If a project gets off to a bad start, the problems are likely to multiply and deepen as the weeks go by.
+The customer-client relationship between faculty and technologist exacerbates the institutional and (real or imagined) epistemological divide between the two.
+Failure is healthy and necessary, but some projects don’t need to fail. They could be done well if approached properly. Or perhaps they don’t need to be done in the first place.
+What if, instead of calling for projects, we called for fellows? That is to say, what if we issued a call for people who can commit to a year (or a summer, or a few weeks, or even a week) of training, in the service of understanding and planning digital humanities work? This period of training could be a prestigious honor — something someone could put on a CV — and would come with certain benefits (say, research funds, access to developer time) as well as certain responsibilities (i.e., a commitment to attend regular meetings).
+At the end of the period, participants might emerge with a plan for a more ambitious project. Or maybe they won’t. Maybe they’ll just think on it. Maybe they’ll slowly incorporate digital pieces into their existing work — which is an eminently healthy and sensible way to get started, if you ask me.
+Of course, many people learn best when they’re applying knowledge to a project they have in mind. But that doesn’t mean that a DH center needs to immediately throw its resources and time into the project.
+Places that already do this (or something like it): University of Virginia’s Praxis Program (grad students who work alongside technologists and other staff members on a joint project), University of Maryland’s Digital Humanities Incubator (librarians who work together on a joint project), Occidental College’s Mellon Summer Digital Scholarship Institute (faculty members who spend a week getting training in digital scholarship),  Columbia University’s Developing Librarians program (librarians who work together on a joint project), and the University of Nebraska’s Center for Digital Research in the Humanities (which hosts a contingent of faculty fellows). And I’m sure there are many others that I’m missing!
+In my estimation, these configurations have the following benefits:
+They establish a wider body of DH expertise across campus.
+They establish a sense of camaraderie among participants.
+They allow participants to develop shared affinities and find collaborators.
+Choosing participants based on their potential, rather than their current knowledge, has the ability to introduce much-needed diversity to the DH community.
+They remove the pressure to produce something immediately, which so often results in poorly conceived projects.
+They allow non-developers to get to know and understand the way developers work and think, and vice versa.
+They allow project participants to take ownership of their work.
+They give people the confidence to keep trying.
+Here’s the other thing: What if the group wasn’t (just) faculty? What if it was a mixed group of faculty, librarians, technologists, and students? How much healthier that would be than reinscribing academic hierarchies, which are just so exhausting.
+To this scenario, I can imagine a number of objections:
+We need to get off the ground with a big, splashy project.
+I understand the need to demonstrate your center’s worth quickly and visibly — but I contend that more often than not, these projects fail because of the factors I’ve outlined above. These failures are visible and expensive. They’re particularly costly in terms of goodwill and credibility, which are irretrievable once lost.
+How can we justify allocating librarians’ and technologists’ time to this?
+Presumably, you are (or will be) allocating their time to DH projects anyway. In this scenario, you’re just investing their time in creating a durable DH community rather than an ill-thought-out project.
+It would be impossible to get faculty to commit their time to a training program like this.
+Point A: It’s impossible to get the project done if faculty don’t commit their time to it. Point B: One might explore various incentives; for example, research or technology funds or (and I understand this is laughably unrealistic at most places) a course release.
+People need something to show for their time.
+OK, but what if “something” is a white paper or a fully developed project plan, not a finished project? Or what if, as in the case of the University of Maryland’s Digital Humanities Incubator program, the team has a project to show for it at the end?
+This is politically infeasible at my campus.
+I mean, maybe, but one has to wonder, too, about the political costs of a series of strained and unproductive relationships with the people whose support you’re trying to court. What if you saw that training period as an investment in healthy, long-lasting relationships? What if we saw digital humanities as a long-term investment in scholarly growth, not a short-term investment in projects?
+This content is published under the Attribution-Noncommercial-Share Alike 3.0 Unported license.					

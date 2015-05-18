@@ -1,0 +1,37 @@
+
+            
+                        The Europeana network of Ancient Greek and Latin Epigraphy (EAGLE) and Linked Open Data
+            
+                        Pietro Liuzzo (University of Heidelberg)
+            
+                        Digital Classicist London & Institute of Classical Studies seminar 2014
+            
+                        Friday July 4th at 16:30, in Room 102 (Athlone Room), Senate House, Malet Street, London WC1E 7HU
+            
+                        
+                           Video recording of seminar (MP4)
+                        
+            
+                        
+                           Audio recording of seminar (MP3)
+                        
+            
+                        
+                           Presentation (PDF)
+                        
+            
+                        The Europeana network of Ancient Greek and Latin Epigraphy brings together for ingestion in the Europeana portal many repositories of ancient epigraphic material and aims to provide historians and the general public not just with a “useful” research tool, but with a curated online edition which has high quality contents as well as high quality data. EAGLE is a Best Practices Network and therefore genuinely looks forward to all kinds of criticism and discussion.
+            
+                        Sometimes general as well as specific definitions are different in databases which had originally specific aims and scopes. The challenge of aggregation, export, choice of format and encoding is not a tech-only question then, and it involves primarily experts of Epigraphy. We would like to present the EAGLE BPN as a case of decisions about data driven by the need for multiple approaches which are originated in the scientific disciplines studying the materials. Decisions about data involve thinking of the stone and the text first off all and in turn they set a new context of work for epigraphists, focused on how to best represent documents and monuments for other scholars, for students, for tourists etc. : Linked Open Data principles aim at bringing things together so we have tried to follow those guidelines also to bring together the databases in EAGLE.
+            
+                        While on the side of the contents EAGLE chose multiplicity of editions, interactivity and multilingualism in order to offer a complete and critically structured endpoint to the user; on the side of data, to represent monuments and their inscription, EAGLE considered two standards: TEI – EpiDoc and CIDOC CRM. The EAGLE portal will be built on exports (openly accessible and reusable) from the different databases in either of these data definitions, according to the one which best fits the original principles and perspective (text or object/event). Linking Data and multiplying descriptions and formats aligned to international standards allows to provide a differentiated meaning and is a minimum needed to have a complete interoperable description of the epigraphic assets. 
+            
+                        Will the choice for complexity at code level be rewarding as a choice of semantic quality? And on the other side, are common standards enough for harmonization, to encourage the reuse of data and the alignment to others previously edited or forthcoming? In the EAGLE BPN we think tools to facilitate willing alignment are needed, but also coordinated linking via third parties annotations or through the alignment to common vocabularies (of contents), gazetteers and bibliographies and some of the efforts in this direction will be presented, including translations and photos for which EAGLE uses Wikibase and GLAM-toolkit.
+            
+                        There are many aspects to harmonization of epigraphic contents and each of them poses questions difficult to answer univocally and in presenting this paper we look forward to what both digital and non-digital epigraphists think and would like to see.
+            
+                        ALL WELCOME
+            
+                        The seminar will be followed by wine and refreshments.
+          
+                     
