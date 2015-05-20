@@ -1,0 +1,161 @@
+
+		The folks at the New York Public Library have a workflow and python script for translating historical maps into Minecraft. It’s a three-step (quite big steps) process. First, they generate a DEM (digital elevation model) from the historical map, using QGIS. This is saved as ‘elevation.tiff’. Then, using Inkscape, they trace over the features from the historical map that they want to translate into Minecraft. Different colours equal different kinds of blocks. This is saved as ‘features.tiff’. Then, using a custom python script, the two layers are combined to create a minecraft map, which can either be in ‘creative’ mode or ‘survival’ mode.
+There are a number of unspoken steps in that workflow, including a number of dependencies for the python script that have to be installed first. Similarly, QGIS and its plugins also have a steep (sometimes hidden) learning curve. As does Inkscape. And Imagemagick. This isn’t a criticism; it’s just the way this kind of thing works. The problem, from my perspective, is that if I want to use this in the classroom, I have to guide 40 students with widely varying degrees of digital fluency.* I’ve found in the past that many of my students “didn’t study history to have to work with computers” and that the payoff sometimes (to them) doesn’t seem to have (immediate) value. The pros and cons of that kind of work shall be the post for another day.
+Right now, my immediate problem is, how can I smooth the gradient of the learning curve? I will do this by providing 3 separate paths for creating the digital elevation model.
+Path 1, for when real world geography is not the most important aspect.
+It may be that the shape of the world described by the historical map is what is of interest, rather than the current topography of the world. For example, I could imagine a student wanting to explore the historical geography of the Chats Falls before they were flooded by the building of a hydro dam. Current topographic maps and DEMs are not useful. For this path, the student will need to use the process described by the NYPL folks:
+
+Requirements
+QGIS 2.2.0 ( http://qgis.org )
+Activate Contour plugin
+Activate GRASS plugin if not already activated
+A map image to work from
+We used a geo-rectified TIFF exported from this map but any high rez scan of a map with elevation data and features will suffice.
+Process:
+Layer > Add Raster Layer > [select rectified tiff]
+Repeat for each tiff to be analyzed
+Layer > New > New Shapefile Layer
+Type: Point
+New Attribute: add ‘elevation’ type whole number
+remove id
+Contour (plugin)
+Vector Layer: choose points layer just created
+Data field: elevation
+Number: at least 20 (maybe.. number of distinct elevations + 2)
+Layer name: default is fine
+Export and import contours as vector layer:
+right click save (e.g. port-washington-contours.shp)
+May report error like “Only 19 of 20 features written.” Doesn’t seem to matter much
+Layer > Add Vector Layer > [add .shp layer just exported]
+Edit Current Grass Region (to reduce rendering time)
+clip to minimal lat longs
+Open Grass Tools
+Modules List: Select “v.in.ogr.qgis”
+Select recently added contours layer
+Run, View output, and close
+Open Grass Tools
+Modules List: Select “v.to.rast.attr”
+Name of input vector map: (layer just generated)
+Attribute field: elevation
+Run, View output, and close
+Open Grass Tools
+Modules List: Select “r.surf.contour”
+Name of existing raster map containing colors: (layer just generated)
+Run (will take a while), View output, and close
+Hide points and contours (and anything else above bw elevation image) Project > Save as Image
+You may want to create a cropped version of the result to remove un-analyzed/messy edges
+The hidden, tacit bits here involve installing the Countour plugin, and working with GRASS tools (especially the bit about ‘editing the current grass region’, which always is fiddly, I find). Students pursuing this path will need a lot of one-on-one.
+Path 2, for when you already have a shapefile from a GIS:
+This was cooked up for me by Joel Rivard, one of our GIS & Map specialists in the Library. He writes,
+
+1) In the menu, go to Layer > Add Vector Layer. Find the point shapefile that has the elevation information.
+Ensure that you select point in the file type.
+2) In the menu, go to Raster > Interpolation. Select “Field 3″ (this corresponds to the z or elevation field) for Interpolation attribute and click on “Add”.
+Feel free to keep the rest as default and save the output file as an Image (.asc, bmp, jpg or any other raster – probably best to use .asc since that’s what MicroDEM likes.
+
+We’ll talk about MicroDEM in a moment. I haven’t tested this path yet, myself. But it should work.
+Path 3 For when modern topography is fine for your purposes
+In this situation, modern topography is just what you need.
+1. Grab Shuttle Radar Topography Mission data for the area you are interested in (it downloads as a tiff.)
+2. Install MicroDEM and all of its bits and pieces (the installer wants a whole bunch of other supporting bits; just say yes. MicroDEM is PC software, but I’ve run it on a Mac within WineBottler).
+3. This video tutorial covers working with MicroDEM and Worldpainter:
+https://www.youtube.com/watch?v=Wha2m4_CPoo
+But here’s some screenshots – basically, you open up your .tiff or your .asc image file within MicroDEM, crop to the area you are interested in, and then convert the image to grayscale:
+MicroDEM: open image, crop image.
+Convert to grayscale
+Remove legends, marginalia
+Save your grayscaled image as a .tiff.
+Regardless of the path you took (and think about the historical implications of those paths) you now have a gray scale DEM image that you can use to generate your mindcraft world.
+Converting your grayscale DEM to a Minecraft World
+At this point, the easiest thing to do is to use WorldPainter. It’s free, but you can donate to its developers to help them maintain and update it. Now, the video shown above shows how to load your DEM image into WorldPainter. It parses the black-to-white pixel values and turns them into elevations. You have the option of setting where ‘sea level’ is on your map (so elevations below that point are covered with water). There are many, many options here; play with it! Adam Clarke, who made the video, suggests scaling up your image to 900%, but I’ve found that that makes absolutely monstrous worlds. You’ll have to play around to see what makes most sense for you, but with real-world data of any area larger than a few kilometres on a side, I think 100 to 200% is fine.
+Now, the crucial bit for us: you can import an image into WorldPainter to use as an overlay to guide the placement of blocks, terrain, buildings, whatever. So, rather than me simply regurgitating what Adam narrates, go watch the video. Save as a .world file for editing; export to Minecraft when you’re ready (be warned: big maps can take *a very long time* to render. That’s another reason why I don’t scale up the way Adam suggests).
+Go play.
+To get you started: here are a number of DEMs and WorldPainter world files that I’ve been playing with. Try ’em out for yourself.
+ 
+—
+* another problem I’ve encountered is that my features colours don’t map onto the index values for blocks in the script. I’ve tried modifying the script to allow for a bit of fuzziness (a kind of, ‘if the pixel value is between x and y, treat as z’). I end up with worlds filled with water. If I run the script on the Fort Washington maps provided by NYPL, it works perfectly. The script is supposed to only be looking at the R of the RGB values when it assigns blocks, but I wonder if there isn’t something else going on. I had it work once, correctly, for me – but I used MS Paint to recolour my image with the exact colours from the Fort Washington map. Tried it again, exact same workflow on a different map, nada. Nyet. Zip. Zilch. Just a whole of tears and heartache.
+
+
+
+About these ads
+
+		var wpcom_adclk_hovering = false;
+		var wpcom_adclk_recorded = false;
+		var wpcom_adclk_theme = "Syntax";
+		var wpcom_adclk_slot = "wpcom_below_post_adsafe";
+		var wpcom_adclk_network = ( typeof wpcom_adclk_network === "undefined" ) ? "" : wpcom_adclk_network ;
+
+		jQuery(document).ready( function() {
+			function wpcom_adclk_hover_yes() { wpcom_adclk_hovering = true; }
+			function wpcom_adclk_hover_no() { wpcom_adclk_hovering = false; }
+			jQuery(".wpa").click(wpcom_adclk_click);
+			jQuery(".wpa iframe").hover( wpcom_adclk_hover_yes, wpcom_adclk_hover_no );
+			jQuery(".wpa object").hover( wpcom_adclk_hover_yes, wpcom_adclk_hover_no );
+
+			jQuery(window).blur( function() {
+				if ( wpcom_adclk_hovering ) { wpcom_adclk_click(); }
+			});
+		});
+
+		function wpcom_adclk_impression() {
+			var stat_gif = document.location.protocol + "//pixel.wp.com/g.gif?v=wpcom-no-pv";
+			stat_gif += "&x_ads_imp_theme=" + wpcom_adclk_theme;
+			stat_gif += "&x_ads_imp_placement="+wpcom_adclk_slot;
+			stat_gif += "&x_ads_imp_network=" + wpcom_adclk_network;
+			stat_gif += "&x_ads_imp_theme_network="+wpcom_adclk_theme+"_"+wpcom_adclk_network;
+			new Image().src = stat_gif + "&baba=" + Math.random();
+			return true;
+		}
+
+		function wpcom_adclk_click() {
+			if (wpcom_adclk_recorded) { return true; } // no double counting
+			var stat_gif = document.location.protocol + "//pixel.wp.com/g.gif?v=wpcom-no-pv";
+			stat_gif += "&x_ads_click_theme=" + wpcom_adclk_theme;
+			stat_gif += "&x_ads_click_placement="+wpcom_adclk_slot;
+			stat_gif += "&x_ads_click_network=" + wpcom_adclk_network;
+			stat_gif += "&x_ads_click_theme_network="+wpcom_adclk_theme+"_"+wpcom_adclk_network;
+
+			new Image().src = stat_gif + "&baba=" + Math.random();
+			wpcom_adclk_recorded = true;
+			var now=new Date(); var end=now.getTime()+250;
+			while(true){now=new Date();if(now.getTime()>end){break;}}
+			return true;
+		}
+	
+if ( typeof GA_googleAddAttr == 'function' ) {
+GA_googleAddAttr("AdOpt", "1");
+GA_googleAddAttr("Origin", "other");
+GA_googleAddAttr("LangId", "1");
+GA_googleAddAttr("Domain", "electricarchaeology.ca");
+GA_googleAddAttr("BlogId", "1263351");
+GA_googleAddAttr("PageURL", "http://electricarchaeology.ca/2014/08/21/historical-maps-into-minecraft-my-workflow/");
+GA_googleAddAttr("AdSafe", "1");
+GA_googleAddAttr("Autotag", "technology");
+GA_googleAddAttr("Tag", "games");
+GA_googleAddAttr("Tag", "immersive-learning");
+GA_googleAddAttr("Tag", "digital-elevation-model");
+GA_googleAddAttr("Tag", "map");
+GA_googleAddAttr("Tag", "minecraft");
+GA_googleAddAttr("Partner", "AOL");
+GA_googleAddAttr("theme_bg", "ffffff");
+GA_googleAddAttr("theme_border", "cccccc");
+GA_googleAddAttr("theme_text", "444444");
+GA_googleAddAttr("theme_link", "444444");
+GA_googleAddAttr("theme_url", "444444");
+GA_googleAddAdSensePageAttr("google_page_url", "http://electricarchaeology.ca/2014/08/21/historical-maps-into-minecraft-my-workflow/");
+GA_googleFillSlot("wpcom_below_post_adsafe");
+}
+
+
+
+
+jQuery( window ).load( function() {
+    if ( jQuery(".wpa script[src*='virool.com']").length > 0 || jQuery(".wpa script[src*='shareth.ru']").length > 0 || jQuery(".wpa iframe[src*='boomvideo.tv']").length > 0 || jQuery(".wpa iframe[src*='viewablemedia.net']").length > 0 || jQuery(".wpa .sharethrough-placement").length > 0 ) {
+        jQuery( '.wpa' ).css( 'width', '400px' );
+    }
+setTimeout(function(){if(typeof GS_googleAddAdSenseService !== 'function'){new Image().src=document.location.protocol+"//pixel.wp.com/g.gif?v=wpcom-no-pv&x_noads=adblock&baba="+Math.random()}},100);
+} );
+Share this:RedditTwitterFacebookGoogleLike this:Like Loading...
+
+	Related
+			

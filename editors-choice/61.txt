@@ -1,0 +1,61 @@
+
+		Is a network analysis of cited works bound to be biased?
+
+			This blog post was selected for the “Editor’s Choice” section of Digital Humanities Now. Thanks!
+It’s much, much easier to see patterns and to make visualizations that make sense when you filter out all the messy bits. In my data set of creative works cited by dissertations on electronic literature between 2002 and 2013 the messy bits are all the works that are only cited once. The dissertations cite 467 different works, and 354 of these are only cited by one dissertation. If you’re doing a network analysis, the most interesting thing is works cited by several dissertations, and that’s what the images in my last post show. But of course that perspective might be missing out on important things – and perhaps this is especially important in an international, multi-lingual field like electronic literature.
+Here’s a graph of all creative works cited. If you click through you’ll get a much larger image, but I’m afraid it’s still hard to read all the work titles. You do get an idea of how many works are cited, though.
+
+Interestingly, dissertations written in the same language don’t necessarily share citations. Serge Bouchardon’s 2005 dissertation cites many French works, but its shared references with French-Canadian Anaïs Guilet’s 2013 dissertation are all English language works. The three dissertations written by Italians (Giovanna di Rosario 2011; Fabio de Vivo 2011; Ugo Panzani 2012) are far apart on the graph, which shows they don’t cite many of the same works. The Scandinavian authors (Mette-Marie Zacher Sørensen 2013; Fagerjord 2003; Anne Mangen 2006; Maria Engberg 2007; Jill Walker 2003; Anders Sundnes Løvlie 2011) don’t seem particularly connected by language either, perhaps because many of them have focused on English language works.
+The dominance of English as an academic language may lead more young scholars to write their dissertations in English, and perhaps therefore prefer to discuss English language works. Also, of course, more scholars can read dissertations and other scholarship written in English, which may lead to a “rich get richer” scenario where works written in less commonly spoken languages get even less attention than they might.
+There might also be a bias against smaller works, such as poetry. For instance, Portuguese author Rui Torres’s works are cited by at least two dissertations (Fernanda Bonacho 2013 and Giovanna di Rosario 2011) but because different works are cited none of Torres’ works show up in the filtered graph that only shows works cited by at least two different dissertations. In a Facebook discussion, Carolyn Guertin, who completed her dissertation in 2003, also noted that her dissertation committee had required her to cite “booklike works”, due to a lack of familiarity with electronic literature at the time. Codework such as Mezangelle’s work is also hard to track in terms of citations to individual works.
+Also, as I share these images and analyses, I keep hearing about more dissertations. For instance, Alvaro found four Brazilian dissertations that he will add next week, and Nick sent me word of another dissertation on interactive fiction that would have been very relevant – but I can’t keep re-doing the visualizations, I have to finalize this paper and accept that it’s partial and incomplete.
+It’s fascinating to see “the big picture”, but ultimately, this is only one big picture view of electronic literature. I look forwards to seeing others.
+Here’s the Gephi file if you want to have a go for yourself. And here’s a tutorial showing you how to use Gephi to analyze it.
+
+Related posts:Beginning a network analysis of creative works of electronic literature as cited in 28 PhD dissertations 
+Tutorial: How to explore a network graph of electronic literature in Gephi 
+The shift in genres of electronic literature 2002-2013 
+
+			
+			
+									
+								
+		25. April 2014 by Jill				
+
+									Categories: Digital Humanities, Electronic literature, ELMCIP					|
+													Tags: Digital Humanities Now, network analysis, visualization					|
+								Leave a comment				
+
+
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+
+
+				
+
+
+
+
+								
+				Leave a Reply Cancel reply
+									
+																			Required fields are marked *							Name * 
+Email * 
+Website 
+												Comment												
+							
+						Notify me of follow-up comments by email.Notify me of new posts by email.					
+							
+			
+
+
+  
+      
+Related posts:Beginning a network analysis of creative works of electronic literature as cited in 28 PhD dissertations 
+Tutorial: How to explore a network graph of electronic literature in Gephi 
+The shift in genres of electronic literature 2002-2013 
+
+  
+  
+
+
+	

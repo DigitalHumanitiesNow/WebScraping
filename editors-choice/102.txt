@@ -1,0 +1,42 @@
+
+		The following is a guest post from Anne Wootton, CEO of Pop Up Archive, which makes tools for preserving and creating access to digital spoken word; Edward McCain, the Digital Curator of Journalism at the Donald W. Reynolds Journalism Institute at the University of Missouri; Leslie Johnston, Direction of Digital Preservation at the National Archives and Records Administration; and Aurelia Moser, a librarian-journalist and current Knight-Mozilla OpenNews fellow.
+As everyone gears up for the annual Digital Preservation 2014 conference next week, we’re excited to crash the party with a bunch of journalists.
+In all seriousness: we proposed our session for DigiPres 2014 in reaction to growing alarm among journalists that as news is increasingly digital in nature, news organizations don’t have the expertise or resources to properly archive or preserve their digital work for future generations — or even to preserve their work for a year from now.
+This is true at small regional newspapers struggling to maintain a web presence and keep digital backups of their articles, images and videos. It’s also true at the biggest national news organizations building interactive news apps and data-driven journalism projects.
+Important initiatives like the National Digital Newspaper Program (a partnership of the Library of Congress and the National Endowment for the Humanities) are helping save the legacy of print journalism for future generations. Educopia published a guide to digital newspaper preservation for libraries and cultural heritage institutions this year.
+But what about the digital news being created today, especially given its state of continual flux and evolution?
+One of us, Edward McCain, has written: “The problems surrounding preservation of and access to digital news archives stem from a combination of frequently changing factors. …[Losing digital] news, birth announcements, obituaries and feature stories about the happenings in any community represents a loss of cultural heritage and identity. It also has an effect on the news ecosystem, since reporters often depend on the ‘morgue’ – newspaper parlance for their library – to add background and context to their stories.”
+For example, at a gathering of journalists last fall, Scott Klein of ProPublica told the story of Adrian Holovaty’s Chicago Crime, a groundbreaking news application that is now lost to the world. “What do we want to know in 2014 about that app? What would we want to know in 2034? It’s not just the code that Adrian wrote or the map itself … We want to know about his process. We want to know the infrastructure on which he built the app … We want to know about how it was designed, how the user interactions worked. We want to know the impact it had and who responded to it.”
+In our Digital Preservation 2014 session on Wednesday 7/23 we will share stories from our varied experiences in digital news production and archiving. We come from different backgrounds, but we share in common a desire to better unite journalists and news organizations with archivists and the archival communities best equipped to provide them with resources. For starters, we thought we’d kick off the conversation with early results from a born-digital news archiving survey conducted by Edward and RJI.
+RJI’s Journalism Digital News Archive initiative was launched in 2013 with the mission of finding and implementing viable solutions for saving news content originally produced in a digital format. There are a number of challenges implicit in this undertaking, not the least of which is that we don’t know a lot about the current state of born-digital news archives.
+A recent RJI/JDNA survey addresses this knowledge deficit about the policies and practices of news organizations when it comes to born-digital content. In a survey of 476 news organizations, the largest group questioned, with 406 respondents, was denoted as “Hybrid” enterprises: print newspapers with an online platform. The smaller group of 70 respondents was denoted “Online Only:” organizations that publish their content via the World Wide Web exclusively.
+The survey asks about content production; what kinds of digital objects are these news organizations creating? Edward and his team asked about the basics such as text and images, but also about video, interactive, mobile-only and other formats, starting with: “Does your news organization produce born-digital text content?” (Respondents were given a working definition of born-digital content: “materials that originate in a digital form, not scanned from other media. Examples include digital photographs, digital documents, harvested web content, digital manuscripts, electronic records, and etc.”)
+It should come as no surprise that the vast majority of news organizations create digital content in text format (Figure 1). But what does it mean that 6% of Hybrid enterprises report that they don’t produce text? It could be that they are engaged in some unorthodox business model or perhaps they didn’t really understand the question. If those 6% of survey respondents really find the language or concepts behind the question about born-digital text formats, it may indicate a more general disconnect between journalistic and digital preservation cultures.
+
+Figure 1. Does your news organization produce born-digital text content?
+RJI’s survey also asked about the use of Content Management Systems for storage and retrieval as well as what other kinds of technology were currently in use for providing access to digital news archives (Figure 2). More than twice the percentage (47 percent) of Online Only organizations store and retrieve their digital content on their own CMS versus Hybrid news producers (20 percent). As with many of the responses, the difference here may be due to the age and size of each type of organization.
+
+Figure 2. Do you store and retrieve born-digital content using a CMS?
+Edward and his team also asked organizations about the completeness of their born-digital archives, how far back they have access to those files, and whether or not they work with a memory institution such as a library, museum or archive to preserve their electronic news assets. The survey asked about the value of born-digital news archives from different perspectives: historical content creation, audience engagement, quality journalism and return on investment. It also asked about loss of digital content as well as perceived threats in areas such as media failure, technical obsolescence, policy and resources. And since librarians – not journalists – have been the driving force behind the creation and preservation of news archives, the survey asked organizations if they employed a news librarian or equivalent position.
+Please join us at Digital Preservation 2014 from 10:45–noon on Wednesday, July 23rd in the West End Ballroom Salon C to hear the answers to these questions and to share your ideas about how digital preservationists can join force with journalists and other stakeholders to improve preservation and access for digital news content.
+Our 2014 Digital Preservation Born Digital News Archiving panel is a continuation of initiatives that many of us are already involved in with colleagues from the Reynolds Journalism Institute, the Newseum, the Mozilla Foundation, the NYTimes, ProPublica, and the Washington Post. Read more here:
+
+Educopia Guide to Digital Newspaper Preservation
+
+
+Signal Interview with Edward McCain of RJI
+
+
+Newseum App Archiving Designathon Post from Erika Owens of Mozilla
+
+
+Signal Blog: App Archiving from Leslie Johnston of NARA
+
+
+Modeling a Schema for Interactive Databases from Scott Klein and Tyler Fisher of ProPublica
+
+
+PBS Idea Lab: Future-proofing News Apps from Meredith Broussard
+
+Please leave a comment below with thoughts on the topic or ideas in advance of the meeting. We welcome all questions and suggestions.
+			

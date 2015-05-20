@@ -1,0 +1,6 @@
+
+			Paul Lovejoy, Canada Research Chair in African Diaspora History at York University, discusses building an international database of biographical information on all enslaved Africans. He outlines this digital history project’s contribution to the study of slavery, race, and broader themes in global history. This is the first part of a two-part series recorded at the Atlantic Slave Biographies Database Conference at Michigan State University in November 2013. (Click here for Jessica Johnson’s Twitter timeline of the conference.)
+
+
+ Africa Past and Present Episode 79 [ 30:03 ] Play Now | Play in Popup | Download
+podPressShowHidePlayer('1', 'http://afripod.aodl.org/wp-content/uploads/2014/02/Afripod_Episode79_Final.mp3', 290, 24, 'false', 'http://www2.matrix.msu.edu/~afripod/wp-content/plugins/podpress/images/vpreview_center.png', 'Africa Past and Present Episode 79', 'Africa Past and Present');

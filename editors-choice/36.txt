@@ -1,0 +1,228 @@
+
+       The Red Herring of Big Data       
+          
+	       
+At the end of August 2013, I was honored to be invited to speak at Fresno State‘s Center for Creativity and the Arts as the first visiting intellectual of the academic year. I helped the Center inaugurate its 2013-2014 theme: “Data and Technology” (PDF). I had the chance to lead a workshop on Voyant, meet many colleagues from English and other departments, and eat some amazing almonds and olive oil grown on campus. I was graciously hosted by the Center’s Director Shane Moreman and a good friend and fellow music lover from when I used to grade AP exams, John Beynon. I appreciated this invitation as it spurred me to organize thoughts that I’d been working on for the last several years.
+What follows is the talk that I gave, as well as my slides. TL;DR:
+
+
+
+As you’ve already heard, I’ve titled my remarks today “The Red Herring of Big Data.” This naturally begs the question, “What do I mean by ‘Big Data’?” Let me illustrate with a personal history.
+Big Data
+
+The first computer I ever had was a Commodore 64. You could plug cartridges in the back and run programs from them.
+
+But my family also got a 1541 disk drive at the same time. This was quite a feat as they were in high demand.
+
+It ran 5.25” floppies that held 170 kb per side. This was great since the computer only had 64 kb of memory built in. Hence, the high demand.
+About ten years later, my family got another computer. We were excited because this one had a hard drive. It held 25 megabytes.
+
+This increase of storage made me feel like a ￼being of immense power. I could keep anything and everything.
+
+I looked out across the limitless vistas￼ of my storage and declared, “It is good.”
+
+Another 10 years down the line, I got my first USB flash drive. Suddenly, I could take 256 MB wherever I went.
+
+Add 10 more years, and I have an 8 GB flash drive and a 1-TB￼ hard drive in my computer.
+
+I use them for pictures of my kids and our new dog. And then I fill it up.
+
+Because data, like rabbits, multiplies.
+At the same time that I was exponentially producing data, the rest of the world was doing the same. Let’s just consider photos. On my hard drive at home, I have 49,854 photos. Again: kids and dog. My phone also has about 1000 photos on it. Some of them are shared to Instagram.
+It turns out, however, that I’m not the only person there. In fact, as of June 2013, there were 130 million registered users who had uploaded a total of 16 BILLION photos.
+
+16 000 000 000 square, filtered pictures in the three short years since the service was created. That’s a lot, but it doesn’t really compare to Facebook. Facebook has 240 billion photos.
+
+350 million more are added everyday.
+
+And unfortunately, most of them are duck face selifes.
+This scale of photographs is what we mean by “Big Data.”
+
+We have a dataset that exceeds imagining and exceeds the capability of a human or even a computer to deal with it meaningfully.
+
+And of course, each photo is not just a chunk of data, but it comes with additional data— the type of camera that took it, GPS coordinates, and more.
+
+And Facebook has data about when￼ we upload photos, how often we do it, how long we’re on the site, and more. Even the images themselves are meaningful data: it matters what we take pictures of.
+
+And photos, of course, are just the tip of the iceberg. We have data about everything: weather, library checkouts, medical histories, earthquake tremors, DNA sequences, and more. We have all these data and, if history serves us, we’ll have more in the future—gobsmackingly more.
+Big Data Saves?
+But what do we do with big data? Here we can get some help from another story. In 1951, Isaac Asimov published five short stories in a single collection titled, Foundation.
+
+The first of these stories kickstarts the plot of what eventually became a 7-book series. In it we encounter the 12,000-year-old Galactic Empire, which rules the, you guessed it, galaxy. Although it appears stable and powerful, the Empire is slowly decaying. As Vonnegut would put it, so it goes. No one has been able to observe this decay except for Hari Seldon, who suggests that the only way to avoid a 30k-year dark age is to develop a compendium of all human knowledge.
+This might sound a bit crazy. After all, is an encyclopedia really going to save civilization?
+
+But it turns out that Hari Seldon isn’t just a Britannica salesman. Instead, he’s a mathematician and psychologist who has developed the new field of psychohistory. Psychohistory is a new field of science and psychology that equates all possibilities in large societies to mathematics, allowing for the prediction of future events.
+
+The rest of Foundation—and indeed the entire series—is devoted to showing that Seldon really is able to predict the future of civilization and its developments at the macro scale.
+What suggests that if we have enough data, we can start to predict behaviors. this means is that Foundation is possibly the first novelization of Big Data. It suggests that if we have enough data, we can start to predict behaviors.
+We’ve all become familiar with algorithms that mine data to tell us what we’re likely to do. This is why Pandora plays me Cut Copy on every channel. It’s why Amazon keeps trying to sell me board games. It’s why my Netflix queue is full of Power Rangers, Power Puff Girls, and Scooby Doo.
+
+The predictive powers of Big Data are such that in spring 2012, Target figured out a teen girl was pregnant before her father did.
+Target assigns each customer an ID linked to their credit cards. It is then able to track purchases. By looking at purchasing patterns of women who signed up for ￼￼baby registries, they could start to see what women would want to buy at different stages of their pregnancies. So Target started sending coupons to women whom its data suggested were pregnant.
+This process automatically sent these coupons to a teenager in the Minneapolis area. Her father irately complained at the local store about Target’s encouraging his daughter to get pregnant. When the manager called later to apologize again, “the father was somewhat abashed. ‘I had a talk with my daughter,’ he said. ‘It turns out there’s been some activities in my house I haven’t been completely aware of. She’s due in August. I owe you an apology.’”
+As Asimov predicts in Foundation, then, Big Data can absolutely help us predict. That’s why it’s a focus of big business campaigns, like this one from IBM.
+
+But even more important than the predictive power attributed to Big Data in Foundation is the connected idea:
+
+Big data saves.
+Perhaps, as usual, Scott Adams and Dilbert understand this belief system.
+
+But it’s more than just pointy haired bosses who put their faith in big data…
+
+Sometimes it’s bosses of countries. In 2009, the Obama administration made clear its interest in Big Data by launching Data.Gov, the public clearinghouse for “high value, machine readable datasets generated by the Executive Branch of the Federal Government.” Three years later, they doubled down. In March of 2012, the president’s advisors announced the “Big Data Research and Development Initiative.” All told, this initiative committed “more than $200 million” to “improving our ability to extract knowledge and insights from large and complex collections of digital data.” The agencies participating (PDF) included the NSF, NIH, Department of Defense, DARPA, Dept. of Energy, and US Geological Survey.
+
+In 2013, we came to understand exactly how much the government trusted in big data.
+
+And the Big Data initiative also continued for a second year, starting in April 2013. The many different projects under the Big Data Initiative all have “the goal of developing new and improved tools to help scientists manage and visualize data” (PDF).
+
+Although the Big Data Initiative only includes scientific agencies, it turns out that the humanities have been involved for just as long. In 2009, when Data.Gov was being launched, the first Digging into Data Challenge was held. Sponsored by the NEH and comparable organizations in the UK and Canada, the eight winning Digging into Data teams ￼￼used high-performance computing stacks to analyze everything from Enlightenment correspondence networks to the rise of the railroad in 19th-century America to “structural analysis of large amounts of musical information.” This humanities-based exploration of big data was so successful that the competition happened again in 2011 and 2013 and added, in the meantime, six more funders and one more nation, The Netherlands (hup Holland!).
+Why the sudden interest in Big Data on the part of the federal government? There are certainly many reasons, including Obama’s adept use of data mining in both his 2008 and 2012 campaigns. This is a man that knows the power of large-scale data.
+
+But perhaps we could point to a 2008 article in WIRED—”The End of Theory“—as representative of this zeitgeist as well. In it, Chris Anderson, then editor in chief for WIRED, writes about the role of Big Data for every field of knowledge:
+
+“The scientific method is built around testable hypotheses. These models, for the most part, are systems visualized in the minds of scientists. The models are then tested, and experiments confirm or falsify theoretical models of how the world works. This is the way science has worked for hundreds of years. […] But faced with massive data, this approach to science—hypothesize, model, test—is becoming obsolete. […] There is now a better way. Petabytes allow us to say: ‘Correlation is enough.’ We can stop looking for models. We can analyze the data without hypotheses about what it might show. We can throw the numbers into the biggest computing clusters the world has ever seen and let statistical algorithms find patterns where science cannot.”
+What Anderson is suggesting is a vision of data in the mold of Hari Seldon or pointy-haired bosses: the idea that data will save us.
+Red Herring #1
+And this, finally, is the first red herring of big data: the belief that data on its own is enough to simply answer any and all of our questions. To think that running the numbers is enough. To mistakenly believe that the data is not the means but the end. But this is false:
+
+Data does not save.
+Perhaps the best way to make this point is to return to WIRED again. In the August 2013 issue of the magazine there is a fascinating series of infographics taken from Tim Leong’s new book, Super Graphic.
+
+As the subtitle implies, the book is A Visual Guide to the Comic Book Universe. The very first chart in the article is a fascinating breakdown of the color ratios in the costume of different superheroes.
+
+With this chart it’s easy to compare the amounts of red, blue, and yellow in Spiderman’s, Superman’s, and Wolverine’s costumes. And it quickly becomes obvious that while superheroes have primary-colored uniforms that their nemeses uniforms are secondary. Spidey is blue and red; Green Goblin is purple and green.
+But where Leong’s chart fails is by its adherence to Chris Anderson’s logic from that 2008 WIRED article: “Who knows why people do what they do? The point is they do it, and we can track and measure it with unprecedented fidelity. With enough data, the numbers speak for themselves.” In short, while Leong proves clearly that costume coloration have a sort of logic to them. But he never explains why. No hypothesis is offered. The data is there and it’s presumably enough on its own.
+But it’s not. That’s just the red herring. What we need to remember is that when we examine large data sets and use statistical methods to model them is that the data requires interpretation.
+
+Big Data approaches help us find patterns that are difficult to see without them. It’s a form of pattern recognition.
+
+Pattern recognition is something that is familiar to us as scholars. It’s what we all do in our research, regardless of our field. When I read a poem or a novel, I’m looking for patterns that I then interpret to help me understand that text differently than I have previously. I do the same thing with historical documents, with ancient Greek sculpture, or with the precipitates of a chemistry experiment. We are trained to find patterns and then to interpret them.
+Despite the hype and attention that have been paid to the field of digital humanities over the last three or four years, it turns out that they are simply another approach for doing pattern recognition. The patterns that someone finds from geospatial analysis of 3,000 novels or quantitative analysis of a poem are not things that are perhaps possible without a computer. But once the data have been generated, it becomes the role of the scholar to use that data to help us understand a field, an author, an event, or a culture differently.
+What is digital humanities, then? Here’s my definition. And yes, this is the money slide.
+
+Digital humanities is the use of computational tools or approaches to find patterns in some humanistic production, when those patterns are then used for interpretive purpose.
+As Matt Jockers put it in his new book, Macroanalysis￼ (2013),
+
+“Computational analysis may be seen as an alternative methodology for the discovery and the gathering of facts. Whether derived by machine or through hours in the archive, the data through which our literary arguments are built will always require the careful and imaginative scrutiny of the scholar. There will always be a movement from facts to interpretation of facts” (30).
+Big Data Interpretation in the Digital Humanities
+So let’s stop talking about big data in the abstract. Let’s talk about it in the humanities. What is it good for and how has it been put to use? Rob Nelson at the University of Richmond’s Digital Scholarship Lab is a historian of political rhetoric in the 19th century. He was interested in how rhetorics of nationalism functioned during the Civil War in both the North and the South.
+
+Rather than looking at just speeches by Abraham Lincoln and Jefferson Davis, poems by Walt Whitman, and editorials, he decided to look at the whole of the Richmond Daily Dispatch over four years. Every article, every advertisement.
+
+Using an approach called topic modeling he created Mining the Dispatch, which isolated patterns of words that appear regularly near each other in articles throughout the four years of the war. This is a single topic, which Nelson titled “Poetry and Patriotism.” (Thanks to Rob, who shared the following slide with me.)
+
+It’s not a topic that is meaningful to the computer. It doesn’t “know” what these words are. All it knows is that these words occur near each other in articles across the corpus. An individual article may have words that come from several different topics.
+
+But tracing the occurrence of this “topic” across the whole corpus helps identify patterns of when particular types of rhetoric were used in the Richmond Daily Dispatch.
+
+There are three big spikes for this topic: spring1861; spring1862; andJanuary 1865. All three of these spikes happen in connection with major recruiting efforts on the parts of the Confederacy: at the beginning of the war, at the beginning of conscription, and at the beginning of 1865, when the Confederacy’s war efforts were failing and it needed every man—able-bodied or not—that could be found.
+Nelson’s discoveries are perhaps commonsensical. But what we see is not an interpretation based on exemplary evidence. Instead, it’s a confirmation of what we would have suspected through the analysis of a large amount of data.
+Let’s look at one other example of big data in the humanities.
+On July 1, [2013] Lev Manovich and Nadav Hochman reported on a mass visualization project involving some of those 16 billion photos from Instagram. They call it Phototrails.
+
+Using the official Instagram API, they downloaded 2,353,017 photos from 13 cities around the world. They then began to process the photos using software that Manovich’s lab has been developing for the last four years. ImagePlot allows users to sort images according to time taken, hues, brightness, grayscale entropy, and more. This allows Manovich’s team to investigate the visual signature of the 13 cities they look at.
+
+And they discovered that there are indeed different patterns to not only how people filter their photos, but also the general color tones of the objects they are photographing in the first place.
+Subsequent investigations help identify patterns of day and night photography in different cities.
+
+They also traced where and when people take pictures in different cities. (This is Tel Aviv. Green dots are morning, yellow are afternoon, red are night.)
+
+They are even able to “examine the function of a social timespace: the representation of space through social media data according to its spatial and temporal organization.” They do this with a visualization of photographs uploaded in Brooklyn during Hurricane Sandy (29-30 November 2012). You can see the moment when the power goes out and when people suddenly stop taking pictures.
+
+The patterns that Hochman and Manovich highlight are pretty clear to see, but given the scale they are working at, they aren’t offering interpretations of the cities so much as interpretations of Instagram as a service. Namely, that it’s possible to use social media individual article 6 ￼￼tracing the occurrence of this “topic,” ￼identify patterns of day and night ￼where and when to “present analysis of social and cultural dynamics in specific places and particular times.”
+Red Herring #2
+The work that Nelson, and Hochman and Manovich are doing is exciting and transformative. It’s even a bit seductive with the emphasis on visualization. And, possibly, it’s a bit disheartening. It’s disheartening because we look at work like this and think, “I can’t do this.”
+
+“I don’t have a dataset of 2 million photos or a library of 3k scanned books or a 4-year run of a newspaper. I don’t even have…data.”
+But this is precisely the second red herring of big data: the belief that digital humanities methods only work on massive datasets.
+
+Small Data Digital Humanities
+As I’ll show you with some of the work that I’ve done over the years with classes, computer-assisted pattern recognition and interpretation is possible on many different levels. In particular, I’m going to talk about two approaches: maps and graphs.
+
+Let’s start with maps. In Fall 2011, I taught “Introduction to Digital Humanities” for the first time. The class was oriented around group projects, the first of which centered on Virginia Woolf’s Mrs. Dalloway. (Update: I’m now teaching a new version of this class.)
+
+Set in one day in England as Clarissa Dalloway plans a party, the novel earns its reputation for being “difficult” thanks to its stream-of-consciousness narration. We bounce around from Clarissa to, among others, her daughter to a former beau, Peter Walsh, to Septimus Smith, a veteran of the Great War. Woolf’s characters move around London throughout the day, whether it is to buy flowers for the party, visit parks, or meet with a doctor. What can we learn if we start putting them on a map?
+
+This shows the path that Clarissa takes on her way to buy flowers for her party. (You can explore this even better via Google Earth with this KMZ.) Shortly after starting her journey, she drifts back to memories of the past: the moment when she terminated her relationship with Peter. In many ways, this seems to be a random act of memory on Clarissa’s part…until you start mapping where she is. At that moment, we find that Clarissa is in St. James Park.
+
+As you read more of the novel, you come to learn that this moment with Peter takes place in a garden with a fountain. And the moment when she starts remembering this moment is when she’s looking over a garden-like park, with water features. What has appeared to be a willful return to the past on the part of Woolf turns out to be structured entirely by the landscape Clarissa finds herself in.
+To add to matters, St. James Park also overlooks the back of Buckingham Palace, the locus of British class relations. The reader eventually learns that Clarissa breaks off with Peter because she is interested in Richard Dalloway, whom she later marries. One of the reasons she does this is because Dalloway comes from a higher social sphere. It’s not random, in other words, that Clarissa is contemplating these events at this location.
+Perhaps this is a detail that Woolf’s readers might have picked up in 1925 when the novel was published. After all, the Hogarth Press didn’t have much of a distribution network then, so her readers would have almost certainly been Londoners. Today, we’re far from an ideal readership. Many of us, I imagine, tend to skip the passages about setting. I know that my students do this most of the time, because they told me this assignment forced them to pay attention to parts of the novel they would have skimmed. But to skim these sections, it turns out, is to miss a lot of the novel. The novel, in other words, can only be read properly when we start to use technology to map it.
+If we learn from the micro-details of Clarissa’s path, we learn other things when we begin to examine the macro level of her travel. Throughout the novel it becomes plain how different Clarissa and her daughter, Elizabeth, are from one another. They care about completely different things and associate with different people. Elizabeth pointedly considers becoming either a doctor or a farmer to distance herself from her mother. The distance between these two women becomes even more apparent when you compare how they move throughout London.
+
+Clarissa, by and large, moves north/south on her trip to get the flowers. Elizabeth, on the other hand, moves east/west. It’s hard to get more at odds with one another than this perpendicular path. But there are other markers: Clarissa walks, and Elizabeth travels via omnibus. Clarissa moves from one of the richest neighborhoods in town to Bond Street, one of the most exclusive shopping districts imaginable. Elizabeth travels by Somerset House, which houses the Royal Society and a portion of the University of London. She also moves toward Chancery Lane, which is the home of many legal practices. While Elizabeth’s path isn’t “slumming” by any sense of the word, she’s moving through very different environs from her mother: professional and educational rather than commercial and linked to royalty.
+Peter’s path is similarly interesting.
+
+At the beginning of the novel, Peter has just returned to London from India, where he has been for several years. He’s returned, in part, to arrange for a divorce for the woman he loves. Which seems all perfectly normal, until we first see him at Clarissa’s house, and watch his thoughts continually drift back to his past with her as he moves about the city: “No, no, no! He was not in love with her any more! He only felt, after seeing her that morning, among her scissors and silks, making ready for the party, unable to get away from the thought of her; she kept coming back and back like a sleeper jolting against him in a railway carriage; which was not being in love, of course; it was thinking of her, criticism her, starting again, after thirty years, trying to explain her.” Sure, Peter, we believe you.
+While there are many important details, let me just point the macro nature of his path. It’s one large circle. No matter what happens, Peter wends his way back to Clarissa for, in the closing words of the novel, “It is Clarissa, he said. For there she was.”
+It’s true that the patterns we find thanks to our mapping lead us to interpretations that are largely possible without the maps. But the maps make it so much easier to read this very difficult novel. To return to the red herring of big data: what my students worked with in Mrs. Dalloway isn’t an especially large dataset. But in mapping the data that Woolf provided, we saw patterns that emerged and changed our understanding of the characters and why the novel is told the way that it is. We moved, then, from pattern recognition to interpretation.
+Maps are a great way to begin looking for patterns in a small dataset. You can map not just where characters move in a story, but also where objects come from, how armies move in a battle, or how a city’s population has changed over time.
+
+And the tools for mapping are simple enough that you can pick them up within an hour.
+Now let’s talk about graphs.
+
+In this same “Intro to Digital Humanities” class, I set my students a puzzle that had been unconsciously handed to us by the poet Carol Ann Duffy.
+
+Since 2009, Duffy has the poet laureate of England. She’s been a prize winning poet for a long time, but one of the books that really brought her to a wider attention was her 1999 volume, The World’s Wife (TWW).
+
+The World’s Wife imagines the wives or partners of famous men throughout history and re-tells their stories from their perspectives. We have women from fairy tales (Little Red Riding Hood); from the Bible (Delilah, Salome, Pilate’s Wife); from history (Mrs. Freud and Mrs. Darwin); and from Greek mythology (one of my favorites is Mrs. Sisyphus, because it’s so much fun to say).
+We’re lucky at Emory to have Duffy’s papers. When a group of my students were looking at her letters in 2009, they made an interesting discovery: a letter from Duffy to the publisher of her first four books of poetry. In the letter, Duffy tells her publisher why she’s taking her fifth book, TWW, to a different publisher. One reason she gives it that she needs to earn more money because she has a daughter ￼now. Second, however, that it’s “not a ‘normal’ poetry collection by me—it’s close to popular entertainment.”
+Now, normally when you start a research project, it’s because you’ve got a hunch, because you’ve caught on to a pattern in whatever data you’ve been looking at. Here, however, was a puzzle presented by the author herself.
+
+Duffy believed that TWW was different than her four previous books. (That, or she needed to tell her editor something so she could break the contract.) But was it in fact different? How could we go about testing her assertion? We decided to tackle this by reading TWW and her previous book, Mean Time (MT). (My current students are continuing this research project and are comparing TWW and Duffy’s third book, The Other Country.)
+The first thing we did was to go the “normal” humanities question route: we read one book and then the other. We had class discussions about the poetry, the themes, the symbolism, and her style. The students even wrote “normal” papers—the only one they did in the class—comparing and contrasting the two volumes. What we all ended up feeling like was the TWW and MT weren’t really all that similar to one another. They seemed to have different styles and to be on different subjects.
+
+But then we decided to take a different approach, looking at her language. The students and I made digital versions of both of her books. In addition to typing up all the poems, we paid attention to number of words per poem, per stanza, and per line. And then we started processing them with Excel and Voyant.
+
+Voyant is a web-based text analysis tool. What I like about it is the fact that you can get started on text analysis with very little prep work. Indeed, it takes so little work, that I was able to introduce Voyant to the students and get them to use the tool and write up blog posts about their findings all during the course’s final exam period. That’s less than 2.5 hours…(also known as, “I sure hope this works…”)
+Each group of students was given a different visualization tool in Voyant to work with. One group got the word cloud tool, Cirrus.
+
+And what became immediately clear from this experiment is that although the volumes feel very different from each other, that they do share some of the same language. Sometimes this makes sense: the most frequent word in both books (once stop words were subtracted from these charts) was “like.” That’s perhaps to be expected as poets are fond of drawing comparisons through rhetorical tools like simile. But there were some real surprises. Words like “hands,” “face,” “head,” and “eyes” show up in both volumes. Despite having read the two books carefully, this discovery took all of us by surprise. What’s at stake in the prevalence of the body in Duffy’s work? How might this be tied to her feminist project and how might it actually undermine it?
+There were also important differences to note. It was easy to explain away the word “queen” as being central to the plots of poems within TWW. But why did night show up in both word clouds but not “light”? How could we read MT differently if we went back to look for light?
+Another group of students tackled the poetry with Word Trends. This tool charts the frequency of words in a corpus, which is arbitrarily divided into sections. (In the graphs below, the corpus is both MT and TWW, in that order, with the corpus divided into 10 equal slices. Given the length of the two works, that means MT ends approximately at the fourth division of the corpus.)
+
+Using this approach students were able to discover that the “body” words observed by their peers weren’t evenly distributed across the volume. “Eyes” remained a constant subject for Duffy, while “hands” appeared in two particular clusters, one in MT and one in TWW.
+More surprising was the relationship between “night” and “eyes.”
+
+These two words move in tandem with each other throughout both volumes. And interestingly, once Duffy starts writing about “night” she thereafter starts writing about “eyes.” Given the ten slices of the corpus, it’s not worth assuming that “night” crops up in one poem, followed by “eyes” (where the subject of the poem is trying to see at night, for example). But is there a sort of internal logic to the ordering of Duffy’s poems? How is the subject of darkness related to vision? Are her characters constantly moving from a point of darkness to insight?
+My favorite chart of all tracked “love” and “sex” throughout the books.
+
+Here is very clear evidence that Duffy’s poetry sees “love” and “sex” incompatible with one another. When one rises, the other disappears. (It’s worth saying here that Word Trends does not lemmatize these words or work with concepts. It’s only “sex” and “love” that are being tracked, not “sexy” or “loving” or “embrace.”)
+Another group used Excel to analyze Duffy’s poetry.
+
+They charted the number of lines per poem and found, to no one’s surprise, that TWW had much long poems. What was surprising on the other hand was that MT ended up having more words per line. This was not what we had anticipated happening, based solely on our memories of the poems. Perhaps most provocative was the revelation that the average length of words was more or less identical in both TWW and MT. Could this point to similarity among the volumes, despite what Duffy had told her publisher? Or—far more likely—did this reflect the fact that the average length of words in English tends be around 4-5 characters and, surprise!, Duffy was writing in English?
+My students very gamely worked with the data before them to look for patterns and then provide some interpretation. What we ended up learning in our analysis of Duffy is that while MT and TWW really do feel different from one another, they are in fact clearly written by the same poet with the same linguistic patterns. Someone who hadn’t read the title page would very likely not think that the two books were written by the same poet, but if someone stopped to look at the patterns in the data, the similarities became clear.
+
+There’s no way that either of these books or both of them taken together could be understood in any way as big data. Yet a data-based approach helped expose patterns that weren’t visible in any other way. And students were able to build interpretations about Duffy’s poetry in response to the patterns.
+Maps and graphs are pretty simple tools. But they help us think differently about the things we work with. And most importantly—at least for my purposes today—they put the lie to that second red herring: you don’t need huge data sets to get started with digital approaches to the humanities.
+Red Herring #3
+It would perhaps be disingenuous to end this talk without admitting to another red herring, which comes in the form of one last story. On the first day of any class I like to give the students a sense of the work that we’ll be doing throughout the semester. In my “Intro to DH” class, I decided that I would give them a quick demonstration of how digital pattern recognition differs from regular close reading. We started the class by looking at one of my favorite poems to teach, Robert Frost’s “The Road Not Taken.”
+
+We spent 20-25 minutes working our way through the text, looking at imagery tied to color, at verb tenses, and the description of the two roads in the poem. By the end of it, we’d reached a pretty nuanced reading of the poem.
+
+I then put the text of the poem into Wordle, a word-cloud generator, to see what new patterns would emerge.
+
+This is what I got.
+
+What quickly became obvious to my students was that this was in fact every word in the poem. There aren’t enough words for any to get weeded out. And the repetition of words across the poem are so infrequent that the Wordle doesn’t really tell us anything new. I ended up making a sort of feeble attempt at suggesting the prevalence of “I” in the poem suggests its implied (and misleading) theme of individuality.
+But the fact of the matter is that if you’re interested in learning more about a single text, one of the best ways to do so is to simply read it.
+
+And if it’s short enough to be read by a single human in a reasonable amount of time, you might not need digital approaches for pattern recognition. That’s the final red herring of data / digital humanities: it really isn’t a solution that fits every situation.
+In the end, then, we’ve found three different red herrings for data:
+
+Data need interpretation
+Data don’t have to be big.
+Data aren’t always the answer
+That being said, by taking a digital approach to our work, to the documents, texts, music, and art that make up what we study and what we ourselves create, we can see new patterns and subsequently form better interpretations of culture, art, and humans themselves.
+Thanks.
+
+          
+                              big data, carol ann duffy, data, digital, digital humanities, digital pedagogy, google maps, graphs, interpretation, map, maps, mrs dalloway, pattern recognition, small data, small data digital humanities, text analysis, the world's wife, topic modeling, virginia woolf
+          
+                    
+			
+                This entry was posted on March 7, 2014, 9:14 am and is filed under Presentations. You can follow any responses to this entry through RSS 2.0.
+                Both comments and pings are currently closed.                            
+		  
+	   
+    

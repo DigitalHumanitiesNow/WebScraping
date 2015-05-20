@@ -1,0 +1,137 @@
+
+
+One of the things that’s struck me as I’ve looked into (the so-called) digital humanities in the last year or two – most intensely in the last six months – is how very little there is about the aspect of computing that most attracted me some four decades or so ago, the computer as model and metaphor for the mind. That, after all, is what drove the cognitive revolution, not computer as data-crunching appliance, though that was important as well. In thinking about these matters we would do well to acknowledge that, even as digital humanities traces its roots to the work Roberto Busa initiated in the 1950s, that another computational enterprise originated at rather the same time, one as classically humanist.
+
+
+
+I am talking, of course, of machine translation. And surely translation from one language to another – Attic Greek to French, Russian to English, whatever – is a core humanistic skill. While those early researchers didn’t think they were in the business of miming the human mind – at least some of them thought that machine translation would be more straightforward than it proved to be – it turns out that, to a first approximation, that’s where some of them ended up.
+
+
+
+And so here we are, moving into the 21st Century and humanistic computing is on the at-long-last rise, and few humanists know much of anything about computing as a model for the mind, not at the nuts and bolts level. That, alas, is not difficult to understand. For one thing, there is a deep strain of techno-skepticism and outright fear in the humanities. For another, it is so much easier, more “natural” if you will, to interpret computing from the outside as just one more cultural medium. One need not know anything about how computers work in order to plumb the socio-cultural significance of computers both real (e.g. IBM’s Watson) and fictional (e.g. Kubrick’s HAL).
+
+
+
+That may, however, be about to change. On the one hand Franco Moretti has, in his pamphlet, “Operationalizing”: or, the Function of Measurement in Modern Literary Theory (Stanford Literary Lab, Pamphlet 6), asserted: “Computation has theoretical consequences—possibly, more than any other field of literary study. The time has come, to make them explicit.” More concretely, there are some sessions at this summer’s DH2014 in Lausanne that pitch their tents in classical territory.
+
+Computational Models of Narrative: Using Artificial Intelligence to Operationalize Russian Formalist and French Structuralist Theories
+
+
+
+Mark Finlayson: Learning Propp’s Morphology of the Folktale
+
+
+
+Pablo Gervás: Generating Russian Folk Tales: A Computational Look at Some Aspects Propp Did Not Formalize
+
+
+
+Graham Sack: Character Networks for Narrative Generation: Structural Balance Theory and the Emergence of Proto-Narratives
+
+
+
+From the description:
+
+
+Narrative has become an active research focus in the artificial intelligence community in recent years, with efforts aimed at the construction of computational models for storytelling and story understanding. AI researchers often speak of narrative as its own form of intelligence—a complex cognitive phenomenon encompassing natural language understanding and generation, common-sense reasoning, analogical reasoning, planning, physical perception, imagination, and social cognition. Computational models of narrative draw upon a multitude of different techniques from the AI toolkit, ranging from detailed symbolic knowledge representation to large-scale statistical analyses.
+
+
+
+Our purpose in proposing this panel for Digital Humanities 2014 is two-fold. First, we want to introduce literary critics and other humanities scholars to parallel efforts underway in AI-narrative research and computational modeling. Second, we want to open a dialogue about the process for and implications of operationalizing canonical narrative theories, especially those from Russian Formalism and French Structuralism, for the computational analysis and generation of stories.
+
+
+Propp’s work entered the cognitive sciences in the early 1970s and was important in the work on story grammars. Later in the decade Sheldon Kline developed a model from Lévi-Strauss’s work and from Propp (see this post for links and abstracts).
+
+
+
+Simulating the Cultural Evolution of Literary Genres
+
+
+
+Graham Sack, Daniel Wu, and Benji Zusman
+
+
+
+From the description:
+
+
+The evolution of literary form and style is an emerging area of academic research and offers a valuable case study in cultural evolution generally. Several notable papers have appeared recently. In particular, critic Franco Moretti has offered a number of provocative claims concerning the relationship between genre evolution and demographic changes in the 19th Century reading public:
+
+
+
+1. Due to the growth of the reading public, the British novel underwent an abrupt change circa 1820: novels became far more heterogeneous and generically differentiated, aimed at specialized niches rather than readers in general.
+
+
+
+2. The average lifespan of genres is ~25-30 years, the same as a human generation. This historical rhythm results from generational turnover in readers.
+
+
+
+3. Literary genre evolution is characterized by alternating cycles of divergence and convergence—that is, periods of increasing generic diversity and differentiation followed by periods of decreasing diversity.
+
+
+
+Statistician Cosma Shalizi argues in a response, “Graphs, Trees, Materialism, Fishing,” that while Moretti identifies provocative historical patterns, he fails to fully articulate the mechanisms underlying and driving literary genre evolution. 
+
+
+
+The objective of this paper is to take up Shalizi’s injunction by building a computational model of possible generative mechanisms driving genre evolution.
+
+
+The authors present a model, albeit a “toy” model, and many models are, even in the physical sciences:
+
+
+Although the model above addresses a set of claims about literary genre, the implementation is intentionally general, relying on abstract feature and preference strings that can represent any cultural product that can be atomized into variable features. Our intention in future research is to calibrate the model against case studies from a variety of cultural markets (literature, film, plastic arts, etc.).
+
+
+Towards a Semantic Network of Dante’s Works and Their Contextual Knowledge
+
+
+
+Mirko Tavoni, Paola Andriani, Valentina Bartalesi, Elvira Locuratolo, Carlo Meghini, and Loredana Versienti
+
+
+
+From the description:
+
+
+The “Towards a Digital Dante Encyclopedia” project is a three years Italian National Research Project, started in 2012, that aims at building a prototypical digital library endowed with services supporting scholars in creating, evolving and consulting a digital encyclopedia of Dante Alighieri and of his works. The digital library is based on a semantic representation of Dante’s works and of the knowledge embedded in them in RDF language , a language recommended by the Web Consortium for the representation of knowledge. In RDF, every piece of knowledge is represented as a triple (subject predicate object), and a set of triples form an RDF graph, generally called semantic network, in order to highlight the formal linguistic nature of the representation. The services being developed address several tasks carried out by the scholars building the encyclopedia, starting with the visualization of references to primary sources (i.e., other authors’ works which Dante referred to his own works), their types and their distribution both in time and in the works of Dante. The overall goal is to shed light into the cultural context in which Dante wrote his works and into the development of Dante’s reference library over time.
+
+
+
+This part of the project is divided in several phases. The first phase regards the creation of an ontology for the knowledge embedded in scholarly commentaries to Convivio, the philosophical treatise which we choose as initial case study. In the second phase, the ontological model is generalized to represent the knowledge embedded in the scholarly commentaries to other Dante’s works. In the third phase, Dante’s works along with their attached commentaries are inserted into the digital library, as part of the semantic network being built. In the fourth phase, the primary sources referenced by Dante in his works, as reported by the commentaries, are inserted into the digital library, following the same semantic approach. In the last phase, services are developed, as web applications that allow scholars to browse the semantic network of Dante’s work, of primary sources, or of references linking the former to the latter. The references will be visualized in an intuitive way through tables and charts, highlighting their distribution in Dante’s work and over time.
+
+
+It’s not clear to me, from this and the rest of the description, just what’s going on. Semantic networks represent knowledge, but it's not clear to me just at what level of detail and completeness this network is being designed. It may not, at this point, be clear to the researchers either. It seems, though, that this semantic network is being created as the organizational underpinning of a reference work and exploratory environment. Thus
+
+
+On the basis of our ontology, we are approaching the remaining phases of the “Towards a Digital Dante Encyclopedia” project. To such aim, we are using the ontology developed so far in order to represent other works of Dante (e.g. De Vulgari Eloquentia, Monarchia) as well as the knowledge carried by commentaries to them. At the same time, we are collecting the primary sources of Dante’s work in a digital format, for insertion into the semantic network underlying the digital library. Our diachronic analysis, in fact, aims at representing the evolution of Dante’s knowledge about primary sources...
+
+
+
+The creation of the semantic network is a very time-consuming and knowledge-intensive process. It requires researching the most appropriate ontologies for representing all aspects, and in several cases it requires developing a new ontology to fill the gaps of existing ones. Once the ontology is created, the works of Dante, the primary sources, and the knowledge embedded in them will have to be expressed in this ontology, and this is also a technically demanding task. But the benefits are enormous. The digital representation of the knowledge can support scholars in several conceptually simple but time-consuming tasks, allowing them to focus on the more intellectual aspects of their work. The semantic network will be usable for a wide variety of purposes, which go well beyond the specific services built by our project. It will constitute a backbone that can be enriched with other knowledge about Dante and the historical events, people, artistic movements, etc. that have come across Dante and as such contribute to form the context in which Dante’s life and art took place. In this sense, creating the semantic network is the most important achievement of our project. Our project will build only one part of this network, but will also lay the bases for the extensions and enrichments that will complete what we have started.
+
+
+This is ambitious work, very.
+
+
+
+❖ ❖ ❖ 
+
+
+
+These are only three sessions and most of the others are not like them, at least to the extent that I can judge by titles and a quick look at a write-up or two. But there’s no reason to think that such conceptually ambitious work will disappear from the field though, if things go well, one might expect to change direction a time or two (see my post, A digital humanist was walking to Damascus...).
+
+
+
+❖ ❖ ❖ 
+
+
+
+See my working paper, Two Disciplines in Search of Love, in which I argue that, as digital critism unfolds, current statistical techniques based on corpus linguistics will inevitably rejoin classical knowledge-based work on computational linguistics:
+
+
+Abstract: Though computational linguistics (CL) dates back to the first efforts in machine translation in the mid 1950s, it is only in the last decade or so that it has had a substantial impact on literary studies through the statistical techniques of corpus linguistics and data mining (know as natural language processing, NLP). In this essay I briefly review the history of computational linguistics from its early days involving symbolic computing to current developments in NLP and set that in relationship to academic literary study. In particular, I discuss the deeply problematic struggle that literary study has had with the question of evaluation: What makes good literature? I argue that literary studies should own up to this tension and recognize a distinction between ethical criticism, which is explicitly concerned with values, and naturalist criticism, which sidesteps questions of value in favor of understanding how literature works in the mind and in culture. I then argue that the primary relationship between CL and NLP and literary studies should be through naturalist criticism. I conclude by discussing the relative roles of CL and NLP in a large-scale and long-term investigation of romantic love.
+
+
+

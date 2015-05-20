@@ -1,0 +1,50 @@
+
+Moon Machine by Bernard Brussel-Smith via Serendip-o-matic
+Over the past few years we've seen an increasing number of projects that take the phrase 'human-computer interaction' literally (or perhaps turning HCI into human-computer integration), organising tasks done by people and by computers into a unified system. One of the most obvious benefits of crowdsourcing on digital platforms has been the ability to coordinate the distribution and validation of tasks, but now data classified by people through crowdsourcing is being fed into computers to improve machine learning so that computers can learn to recognise images almost as well as we do. I've outlined a few projects putting this approach to work below. Of course, this creates new challenges for the future - what do cultural heritage crowdsourcing projects do when all the fun tasks like image tagging and text transcription can be done by computers? After all, Fast Company reports 'at least one Zooniverse project, Galaxy Zoo Supernova, has already automated itself out of existence'. More positively, assuming we can find compelling reasons for people to spend time with cultural heritage collections, how does machine learning and task coordination free us to fly further?
+
+
+
+The Public Catalogue Foundation has taken tags created through Your Paintings Tagger and turned them over to computers. As they explain, the results are impressive. The art of computer image recognition: 'Using the 3.5 million or so tags provided by taggers, the research team 
+at Oxford 'educated' image-recognition software to recognise the top 
+tagged terms. Professor Zisserman explains this is a three stage 
+process. Firstly, gather all paintings tagged by taggers with a 
+particular subject (e.g. ‘horse’). Secondly, use feature extraction 
+processes to build an ‘object model’ of a horse (a set of 
+characteristics a painting might have that would indicate that a horse 
+is present). Thirdly, run this algorithm over the Your Paintings 
+database and rank paintings according to how closely they match this 
+model.'
+The BBC World Service archive ‘used an open-source speech recognition toolkit
+to listen to every programme and convert it to text’, extracted keywords or tags from the transcripts then got people to check the correctness of the data created: ‘As well as listening to
+programmes in the archive, users can view the automatic tags and vote on
+whether they’re correct or incorrect or add completely new tags. They can also
+edit programme titles and synopses, select appropriate images and name the
+voices heard’. From Algorithms and Crowd-Sourcing for Digital Archives by Tristan Ferne. See also What we learnt by crowdsourcing the World Service archive by Yves Raimond, Michael Smethurst, Tristan Ferne on 15 September 2014: 'we believe we have shown that a combination of automated tagging 
+algorithms and crowdsourcing can be used to publish a large archive like
+ this quickly and efficiently'.
+
+
+
+And of course the Zooniverse is working on this. From their Milky Way project blog, New MWP paper outlines the powerful synergy between citizens scientists, professional scientists, and machine learning: '...a wonderful synergy that can exist between 
+citizen scientists, professional scientists, and machine learning. The 
+example outlined with the Milky Way Project is that citizens can 
+identify patterns that machines cannot detect without training, machine 
+learning algorithms can use citizen science projects as input training 
+sets, creating amazing new opportunities to speed-up the pace of 
+discovery. A hybrid model of machine learning combined with crowdsourced
+ training data from citizen scientists can not only classify large 
+quantities of data, but also address the weakness of each approach if deployed alone.'
+
+
+The CUbRIK project combines 'machine, human and social computation for multimedia search'. You can try it out at their technical demonstrator, HistoGraph and try to 'collaboratively identify missing information' about historic photographs. [Added October 2014]
+If you're interested in the theory, an early discussion of human input into machine learning is in Quinn and Bederson's 2011 Human Computation: A Survey and Taxonomy of a Growing Field. More recently, the SOCIAM: The Theory and Practice of Social Machines project is looking at 'a new kind of emergent, collective problem solving, in which we see (i) 
+problems solved by very large scale human participation via the Web, 
+(ii) access to, or the ability to generate, large amounts of relevant 
+data using open data standards, (iii) confidence in the quality of the 
+data and (iv) intuitive interfaces', including 'citizen science social machines'. If you're really keen, you can get a sense of the state of the field from various conference papers, including ICML ’13 Workshop: Machine Learning Meets Crowdsourcing and ICML ’14 Workshop: Crowdsourcing and Human Computing. There's also a mega-list of academic crowdsourcing conferences and workshops, though it doesn't include much on the tiny corner of the world that is crowdsourcing in cultural heritage.
+
+
+
+NB: this post is a bit of a marker so I've somewhere to put thoughts on machine learning and human-computer integration as I finish my thesis; I'll update this post as I collect more references. Do you know of examples I've missed, or implications we should consider? Comment here or on twitter to start the conversation... 
+
+
