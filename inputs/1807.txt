@@ -1,0 +1,1 @@
+title = ASOR Syrian Heritage Initiativeurl = http://www.asor-syrianheritage.org/description = The ASOR Syrian Heritage Initiative implements cultural property protection by: (1) Documenting damage; (2) Promoting global awareness; (3) Planning emergency and post-war responsesfeed = http://www.asor-syrianheritage.org/feed/

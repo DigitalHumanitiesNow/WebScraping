@@ -1,0 +1,1 @@
+I just put up a modest reference repository with various slices of data on US names. I included an estimate of names among US-born citizens today, by cross-referencing baby names data and population age distribution for 2014, and gender probabilities by name. Find it on Github. 

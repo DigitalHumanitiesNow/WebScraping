@@ -1,0 +1,1 @@
+One of my favorite cartoonists – Randall Munroe – has made a call out to GIS for its ability to identify whether items or objectsÂ fall within certain “enclosures” of space based on their coordinate locations. Â Will there be a day when the public can read a cartoon panel like this one and know what is being referenced? 

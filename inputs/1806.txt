@@ -1,0 +1,1 @@
+Worth remembering:$ pdftotext -eol mac -nopgbrk foo.pdf        $ find . -iname *.pdf -exec pdftotext -eol mac -nopgbrk {} \;

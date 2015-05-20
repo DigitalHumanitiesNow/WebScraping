@@ -1,0 +1,1 @@
+A chart containing brief descriptions of fifty-five digital preservation tools, including ingest and storage functions, can be found at http://digitalpowrr.niu.edu/tool-grid/

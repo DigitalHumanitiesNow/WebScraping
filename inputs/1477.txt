@@ -1,0 +1,1 @@
+Here's a straightforward animation that shows US county boundaries change between 1629 and 2000. You can also grab all the data from the Newberry Library site.  Tags: animation, boundaries

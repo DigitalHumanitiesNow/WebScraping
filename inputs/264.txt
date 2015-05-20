@@ -1,0 +1,1 @@
+ Shapely 1.5 Shapely 1.5 is on PyPI. It’s faster and more satisfying than any holiday fruitcake. Share and enjoy! 

@@ -1,0 +1,1 @@
+I have just added Cale Staley's blog Digging in the Digital Age to the Maia and Electra Atlantides feed aggregators:title = Digging in the Digital Ageurl = https://calestaley.wordpress.com/creators = Cale Staleydescription = Analyzing the ancient world and its texts through technologyfeed url = https://calestaley.wordpress.com/feed/

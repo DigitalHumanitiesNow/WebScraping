@@ -1,0 +1,1 @@
+Not a format I'd come across before, but we now have files of this type in the collections. They were written on something like this. Luckily someone has written a migration tool, and it seems to work. See fwwputils.Anyone know of other tools for this format? 

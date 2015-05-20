@@ -1,0 +1,1 @@
+Playing around with the new ngramr package for R, I came up with a simple viz for both the sushi boom and the rise of US foodie culture.Â Sometime a picture is worth a thousand words, but a least sushi is low in calories.   

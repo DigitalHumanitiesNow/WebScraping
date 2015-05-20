@@ -1,0 +1,1 @@
+A little python script that allows to pass an article DOI in order to obtain all the metadata related to that article. The script relies on the handy crosscite.org API, which is one of the wonderful services provided by CrossRef.    

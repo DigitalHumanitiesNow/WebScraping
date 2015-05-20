@@ -1,0 +1,1 @@
+ Motorola’s now-discontinued MotoACTV sportswatch gives you the commendable option to download all your running routes. With a touch of data hacking, some manual editing to remove redundant routes, and some beautiful map tiles from Stamen, I ended up with a nice record of the places that I visited in 2012/13 and the parts of my town explored.     
