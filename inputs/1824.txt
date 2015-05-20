@@ -1,0 +1,1 @@
+The following blog has been added to the Maia Atlantis feed aggregator:title = Oral Poetryurl = http://oralpoetry.blogspot.com/feed = http://oralpoetry.blogspot.com/feeds/posts/default?alt=rss

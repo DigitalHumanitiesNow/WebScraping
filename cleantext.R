@@ -1,19 +1,43 @@
 library("readr")
-library("xml2")
 library("dplyr")
 library("rvest")
+library("stringr")
+
 data <- read_csv("dhnow-unfiltered-2015-05-19.csv")
 
+data <- data %>%
+  mutate(content_length = str_length(entry_content)) %>%
+#   mutate(text_to_use = ifelse(content_length > 0,
+#                               entry_content,
+#                               entry_summary)) %>%
+#   mutate(text_length = str_length(text_to_use)) %>%
+  filter(content_length > 0)
+
+
 cleaning <- function(dirtytext) {
-  text1 <- html(dirtytext)
-  text1 <- html_text(text1)
-  return (text1)
+
+    plain <- try(
+      dirtytext %>%
+        html() %>%
+        html_text()
+    )
+
+    if (!class(plain) == "try-error") {
+      plain %>%
+        str_replace_all("\n", " ") %>%
+        str_replace_all("view in full screen", "")
+    } else {
+      dirtytext %>%
+        str_replace_all("\n", " ") %>%
+        str_replace_all("view in full screen", "")
+    }
 }
 
-newdata <- data %>% mutate(cleantext = cleaning(entry_content))
-newdata <- newdata %>% select(-entry_content)
-write.csv(newdata, file="dhnow-unflitered-2015-05-20_cleaned.csv")
-text1 <- as.character(text1)
-x <- read_html(text1)
-xml_text(text1)
-xml_text(xml_children(x))
+if(!dir.exists("inputs")) dir.create("inputs")
+
+clean_texts <- data$entry_content %>%
+  lapply(cleaning)
+
+for (i in seq_len(length(clean_texts))) {
+  writeLines(clean_texts[[i]], str_c("inputs/", i, ".txt"))
+}

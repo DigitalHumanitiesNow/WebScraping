@@ -1,0 +1,1 @@
+I have just added the following blog to the Maia and Electra Atlantides feed aggregators:title = I.Sicilyurl = http://isicily.wordpress.com/creators = Jonathan Praglicense = Nonedescription = Building a digital corpus of Sicilian inscriptionskeywords = Nonefeed = http://isicily.wordpress.com/feed/

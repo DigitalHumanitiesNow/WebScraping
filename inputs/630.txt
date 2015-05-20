@@ -1,0 +1,1 @@
+Lev Manovich challenges CCS: can we really "read" code, when we're talking about programs with 100k lines, dynamic libraries, etc. #dh09 

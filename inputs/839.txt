@@ -1,0 +1,1 @@
+ The Social Media and Web Analytics Innovation conference is taking place onÂ April 29 and 30th in San Francisco. There will be a talk about the ways social network analysis can be applied to social media. Using the free and open NodeXL application, it become as easy as making a pie chart to make a network chart and report.  

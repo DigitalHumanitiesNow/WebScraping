@@ -1,0 +1,1 @@
+I have just added the following blog to the Electra Atlantis feed aggregator:title = EpiDoc workshopurl = http://epidocworkshop.blogspot.co.uk/creators = Simona Stoyanova, et al.description = Share markup examples; give and receive feedbackkeywords = EpiDoc, epigraphy, inscriptions, XML, TEIfeed = http://epidocworkshop.blogspot.com/feeds/posts/default?alt=rss

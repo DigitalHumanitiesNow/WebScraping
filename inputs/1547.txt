@@ -1,0 +1,1 @@
+Anyone who heard Brad Glisson's talk at the DPC event on digital forensics may be interested in the paper 'A comparison of forensic evidence recovery techniques for a windows mobile smart phone' published in Digital Investigation      Volume 8, Issue 1,    July 2011,   Pages 23-36. Interesting to see what was recovered, and how the different tools behave. 

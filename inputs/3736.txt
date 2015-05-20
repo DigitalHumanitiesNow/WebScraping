@@ -1,0 +1,1 @@
+I keep somehow accidentally turning off comments (the “user must be registered and logged in to comment” box keeps getting checked).  Maybe this is a default reset every time I update WordPress?  Anyway, comments are back on and I’ll try and keep them on.
