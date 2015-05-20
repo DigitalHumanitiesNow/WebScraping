@@ -1,1 +1,1 @@
- 
+Attached are the slides from my presentation at the Bodleian Library’s “Mapping the British Booktrades” workshop held on May 22, 2014 at Merton College, Oxford University. The presentation provides an overview of the redesign of the English Short Title Catalogue that is currently underway. The presentation includes depictions of the new data model, an introduction to the new technology stack, as well as process diagrams depicting the social, peer-review functionality that will be implemented to manage and improve records. Click here to download.

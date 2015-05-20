@@ -1,0 +1,1 @@
+For those interested in adding new/better coordinates to existing Pleiades places, there is now an (I hope) accurate step-by-step outline that I'll soon turn into a full script for a screencast

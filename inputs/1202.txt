@@ -1,1 +1,1 @@
-A little promo produced by Kansas State University
+I wrote a really simple javascript for swapping the text of one element with the text in the title of a link. Here's the test page. I'll write up a "how-to" a little later. Let me know if its useful, or if it needs corrections or improvements.

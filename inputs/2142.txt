@@ -1,1 +1,1 @@
-One paragraph in my 4/14/15 blog post seemed to some readers to suggest that David Armitage was responsible for errors in The History Manifesto. That was not my intention.
+What if I wanted to build a transcription layer on top of columbia lib's digital collections? we have a fedora/blacklight stack. thinking of an API. anybody out there doing it? 

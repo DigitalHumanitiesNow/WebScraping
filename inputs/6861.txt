@@ -1,0 +1,1 @@
+Introduction In previous posts, we looked at a variety of Linux command line techniques for analyzing text and finding patterns in it, including word frequencies, permuted term indexes, regular expressions, simple search engines and named entity recognition. In this post we focus on a preliminary issue: converting images of texts into text files that we […]

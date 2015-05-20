@@ -1,0 +1,1 @@
+Introduction In earlier posts we used a variety of tools to locate and contextualize words and phrases in texts, including regular expressions, concordances and search engines. In every case, however, we had to have some idea of what we were looking for. This can be a problem in exploratory research, because you usually don’t know […]

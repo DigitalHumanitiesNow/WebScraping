@@ -7,11 +7,11 @@ data <- read_csv("dhnow-unfiltered-2015-05-19.csv")
 
 data <- data %>%
   mutate(content_length = str_length(entry_content)) %>%
-#   mutate(text_to_use = ifelse(content_length > 0,
-#                               entry_content,
-#                               entry_summary)) %>%
-#   mutate(text_length = str_length(text_to_use)) %>%
-  filter(content_length > 0)
+  mutate(text_to_use = ifelse(content_length > 0,
+                              entry_content,
+                              entry_summary)) %>%
+  mutate(text_length = str_length(text_to_use)) %>%
+  filter(text_length > 0)
 
 
 cleaning <- function(dirtytext) {
@@ -35,7 +35,7 @@ cleaning <- function(dirtytext) {
 
 if(!dir.exists("inputs")) dir.create("inputs")
 
-clean_texts <- data$entry_content %>%
+clean_texts <- data$text_to_use %>%
   lapply(cleaning)
 
 for (i in seq_len(length(clean_texts))) {

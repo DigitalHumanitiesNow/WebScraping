@@ -1,0 +1,1 @@
+There are basically two different ways to build collections for distant reading. You can build up collections of specific genres, selecting volumes that you know belong to them. Or you can take an entire digital library as your base collection, … Continue reading →

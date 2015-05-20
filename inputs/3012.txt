@@ -1,1 +1,1 @@
- With data from NYPL Labs’ What’s on the Menu? 
+I have just added the following blog to the Electra and Maia feed aggregators:title = From Stone to Screenurl = https://fromstonetoscreen.wordpress.com/description = A collaborative project to create a digital database of the archaeological teaching collections at the University of British Columbia.feed url = https://fromstonetoscreen.wordpress.com/feed/

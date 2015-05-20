@@ -1,0 +1,1 @@
+Many digital humanists are probably aware that they could make their research activities faster and more efficient by working at the command line. Many are probably also sympathetic to arguments for open source, open content and open access. Nevertheless, switching to Linux full-time is a big commitment. Virtualization software, like Oracle’s free VirtualBox, allows one […]

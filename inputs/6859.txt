@@ -1,0 +1,1 @@
+Introduction In previous postsÂ we focused on manipulating human- and machine-readible text files that contained prose. Text files are also frequently used to store tabular data or database records that are partially, primarily or completely numeric. Linux and UNIX have a wide variety of commands for manipulating these kinds of files, too.Â One of the most powerful […]

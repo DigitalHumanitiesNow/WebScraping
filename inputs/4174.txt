@@ -1,1 +1,1 @@
- 
+Yesterday, the Omeka team took the necessary steps to ensure that user passwords on Omeka.net are protected against the Heartbleed bug. We updated our open SSL libraries with the newest security patch.  We recommend that all Omeka.net users update their passwords as soon as possible, particularly if passwords used for Omeka.net websites are the same as passwords used for online shopping, banking, or email sites. via Omeka http://ift.tt/1kr1lgi Brennan

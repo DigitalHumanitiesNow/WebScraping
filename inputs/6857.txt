@@ -1,0 +1,1 @@
+Introduction In the previous post we used the OCLC WorldCat Identities database to learn more about Frank N. Meyer, a botanist who made a USDA-sponsored expedition to South China, 1916-18. We requested that the server return information to us that had been marked up with XML, then extracted unique identifiers for other identities in the […]

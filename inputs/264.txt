@@ -1,1 +1,1 @@
- Shapely 1.5 Shapely 1.5 is on PyPI. It’s faster and more satisfying than any holiday fruitcake. Share and enjoy! 
+Some notes on the 2013 Harvard Reischauer Lectures Part I: Schema Part II: Schemes of Sight Part III: Schemes of Travel Given that we pay attention to different thingsâbecause different things matter to usâcan we ever hope to find congruence between divergent cultural worldviews? So much of modern Asian history speaks of the linear transfer, […]

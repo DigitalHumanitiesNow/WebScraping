@@ -1,1 +1,1 @@
-My presentation for WMST 630: Feminist Theories Across the Disciplines can be found here. 
+Think of the word “algorithm” and you might picture a data scientist crunching numbers in front of a terminal, analyzing functions and equations that you can’t begin to understand. If they’re building models of weather systems, you might be right â¦

@@ -1,0 +1,1 @@
+This past summer, Ian Milligan, Mary Beth Start and I worked on customizing a Debian Linux virtual machine for doing historical research using digital primary and secondary sources. The machine is called HistoryCrawler, and runs on both Macs and PCs. You can build one of your own by following the steps below. 1. Install VirtualBox […]
