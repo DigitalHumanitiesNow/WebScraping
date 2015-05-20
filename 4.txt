@@ -1,4 +1,0 @@
- 
-  Log in with WebAuth
-
- 

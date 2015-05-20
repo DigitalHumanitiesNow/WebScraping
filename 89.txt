@@ -1,6 +1,0 @@
-
-        
-            CFP: The Facebook Emotional Manipulation Study and the Ethics of Big Data Research - A special issue of Research Ethics
-            Unless you live under a stone, have no access to media or tune out whenever the word "Facebook" is mentioned you will be aware that significant ethical and regulatory concern has been raised about an interventional study carried out via Facebook to assess how people respond to more positive or negative newsfeeds. But are these controversies justified, and what are the implications for other big data projects, as well as for regulatory systems? Is this the Tuskegee of digital big data research or just a storm in a virtual tea cup?Research Ethics (http://www.uk.sagepub.com/journals/Journal202119) is devoting a special issue to this topic and is issuing a Call for Papers ranging in length from 1500 to 7500 words addressing one or more of the controversies or the more general issues regarding the ethics of big data research. Please submit your paper by the 31st of August via http://mc.manuscriptcentral.com/rea Feel free to make contact with the editors for this issue David Hunter & Nicholas Evans via email david.hunter@flinders.edu.au & neva9257@gmail.com to discuss before submission.
-        
-        
